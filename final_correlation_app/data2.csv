@@ -1,0 +1,2505 @@
+metro_area,customer_satisfaction,BusinessAcceptsCreditCards,WheelchairAccessible,OutdoorSeating,HasTV,DogsAllowed,GoodForKids,RestaurantsGoodForGroups,DriveThru,RestaurantsPriceRange2,latenight,lunch,dinner,breakfast,HasFreeWiFi
+Nashville,-5,1,1,1,1,0,1,0,1,1,NA,NA,NA,NA,0
+Tucson,44,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Nashville,-18.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+St Louis,-50,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+Philadelphia,-7.5,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,-31,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,160,1,NA,0,0,0,1,1,1,1,0,1,1,1,1
+Tampa,56,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Philadelphia,-10,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tampa,13.5,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,0
+Tucson,13,1,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,1
+Tucson,7,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,21,1,NA,0,1,NA,1,1,1,1,1,0,0,1,0
+Tucson,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,13,1,NA,0,1,NA,1,1,1,1,0,1,0,0,1
+Tucson,35.5,1,NA,0,1,NA,1,1,1,1,1,1,1,1,0
+Tampa,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,15,1,NA,0,1,NA,1,1,1,2,0,1,0,0,0
+Reno,44,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,-4.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Indianapolis,16,1,NA,1,1,NA,1,1,0,1,NA,NA,NA,NA,0
+Santa Barbara,5,1,1,1,1,NA,1,1,NA,1,0,0,0,0,NA
+Reno,73,1,NA,0,1,NA,1,1,1,1,0,1,1,0,0
+Reno,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Tampa,14,1,NA,0,NA,NA,1,1,0,1,0,0,0,0,1
+Nashville,-4,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,7,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,1,1,0,NA,1,0,1,1,0,1,1,1,1
+Tampa,0,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,3,1,NA,NA,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Reno,0,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA
+Tucson,9,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,15,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Boise,8,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+New Orleans,6,1,NA,0,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Reno,43,1,NA,1,1,NA,1,1,0,1,0,1,1,0,0
+Indianapolis,21,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,-22,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,-18,NA,NA,1,1,NA,NA,1,1,1,NA,NA,NA,NA,1
+Nashville,40,1,NA,1,1,NA,1,1,1,2,NA,1,NA,1,1
+Indianapolis,10,1,NA,1,1,NA,1,1,1,1,1,0,0,1,NA
+Nashville,-4,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Nashville,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Philadelphia,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Reno,-44.5,1,NA,1,1,NA,1,1,1,1,0,1,0,1,1
+Tucson,9,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Boise,18,1,NA,1,0,NA,1,1,NA,1,0,1,1,0,0
+St Louis,10.5,1,NA,NA,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Indianapolis,5.5,1,NA,1,1,NA,1,0,1,1,0,0,0,0,NA
+Philadelphia,-12.5,1,NA,0,0,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,3,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Reno,81,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+St Louis,-2.5,1,NA,0,1,NA,1,0,0,1,0,0,0,0,0
+Tampa,6.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,-16,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+New Orleans,133.5,1,NA,1,0,0,1,1,0,1,0,1,1,0,0
+Indianapolis,7,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,NA,NA,NA,NA,1,NA,2,NA,NA,NA,NA,NA
+Indianapolis,10.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,-17,1,1,1,1,0,1,0,1,1,0,1,0,0,0
+Philadelphia,-38,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,39,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,12,1,NA,NA,1,NA,NA,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-19,1,NA,0,1,NA,0,0,1,1,NA,NA,NA,NA,0
+Indianapolis,16,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Nashville,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Reno,512,1,1,NA,0,0,1,1,1,1,0,1,1,1,1
+Indianapolis,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Reno,-25.5,1,NA,0,1,0,1,0,1,1,0,1,0,1,0
+New Orleans,-5.5,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,1
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,1,0,0,1
+Indianapolis,10.5,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,-22,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,-6,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,25,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,77,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Santa Barbara,-43,1,NA,0,1,NA,1,1,1,1,1,1,0,1,0
+St Louis,-19.5,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+New Orleans,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Nashville,20,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+Tampa,14,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,10.5,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,-10.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,1
+Boise,0,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Boise,9,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+New Orleans,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Boise,-9,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,1,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,3,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,21.5,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Boise,6.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,-12.5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Boise,0,1,NA,0,1,NA,1,1,1,1,0,1,1,0,0
+Tucson,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Reno,0,1,NA,0,1,NA,1,0,NA,1,NA,1,1,0,0
+New Orleans,22,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Santa Barbara,9,1,NA,0,0,NA,1,1,NA,1,0,1,0,0,NA
+Philadelphia,-7.5,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Nashville,0,1,NA,1,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,1
+Tucson,22,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Santa Barbara,17.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,3,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Nashville,-3,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,-12,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Tampa,-15,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tampa,73,1,NA,1,1,NA,1,1,1,1,0,1,1,1,1
+Santa Barbara,456,1,NA,NA,0,0,1,1,1,1,1,1,1,0,0
+St Louis,10.5,1,NA,0,1,NA,1,1,0,1,0,0,0,0,0
+New Orleans,2.5,1,NA,0,NA,NA,NA,0,NA,1,NA,NA,NA,NA,NA
+Tampa,20,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Nashville,60,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Tampa,9,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,57.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nashville,-9,1,NA,0,NA,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,30,1,1,0,0,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,13,1,NA,1,1,NA,1,1,1,1,0,0,0,1,0
+Indianapolis,5.5,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Tucson,24,1,NA,NA,1,NA,1,0,1,1,0,0,0,0,0
+Boise,-11,1,NA,0,1,NA,1,1,1,2,NA,NA,NA,NA,NA
+Indianapolis,7.5,1,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,1
+Indianapolis,-10.5,1,NA,0,1,NA,0,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,16.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Indianapolis,42,1,NA,1,NA,NA,0,1,NA,2,NA,NA,NA,NA,1
+Tucson,18,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Tucson,100.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,-13,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+New Orleans,8,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Tampa,-8.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Nashville,65,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,30,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,0,1,NA,NA,0,NA,1,0,1,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,-3,1,1,1,0,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Reno,6,1,NA,1,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+Nashville,14,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+New Orleans,36,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,9.5,1,NA,1,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Tucson,-14,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,15,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,16.5,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,-4,1,NA,1,1,NA,0,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+New Orleans,19,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Nashville,168,1,NA,1,1,NA,1,1,1,1,0,1,1,1,1
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,1,1,0,0,0,0
+New Orleans,7,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,-9.5,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,58.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,210,1,NA,1,1,0,1,1,1,1,0,1,1,0,0
+Indianapolis,140,1,NA,0,0,1,1,1,0,1,0,1,1,0,0
+Tucson,24,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Reno,41,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,195,1,NA,1,1,0,1,1,1,1,0,1,1,1,1
+Philadelphia,94.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,60,1,NA,1,1,NA,1,1,1,1,0,1,1,0,1
+Indianapolis,30,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Santa Barbara,38,1,NA,1,1,NA,1,1,0,1,0,1,1,0,0
+Nashville,13.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,10,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+New Orleans,-19.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,-7,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+St Louis,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+St Louis,8,1,NA,0,0,NA,1,1,NA,2,NA,NA,NA,NA,NA
+Tampa,9.5,1,NA,NA,1,NA,1,0,NA,1,0,0,0,0,NA
+Indianapolis,7.5,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+St Louis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,-28,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,72,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,29,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,1
+Tampa,10,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,13,1,1,1,1,NA,1,1,1,1,0,0,0,0,0
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Santa Barbara,32,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Boise,20,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,31.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,57,1,NA,0,NA,1,0,NA,NA,2,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Nashville,20,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,-4.5,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,3,1,NA,NA,NA,NA,1,1,1,1,0,0,0,0,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+St Louis,-3.5,1,NA,0,0,NA,NA,0,1,1,0,0,0,0,0
+Tucson,40.5,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,128,1,NA,1,1,NA,1,1,NA,1,0,1,1,1,1
+Tampa,9,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,11,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,72,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,1
+Nashville,0,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,-17.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,62,1,NA,0,1,NA,1,0,NA,2,0,1,0,0,0
+Indianapolis,-7.5,NA,NA,NA,NA,NA,1,0,1,NA,NA,NA,NA,NA,NA
+Tampa,23.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,19.5,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+Indianapolis,0,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Philadelphia,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tucson,8,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Reno,12,1,NA,0,1,NA,1,1,0,1,0,0,0,0,1
+New Orleans,73,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Philadelphia,7.5,1,NA,0,NA,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,-4,1,NA,0,1,NA,0,0,NA,1,0,0,0,0,0
+St Louis,8,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Santa Barbara,10,1,NA,1,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,6,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Boise,5,1,NA,0,NA,NA,1,1,1,1,0,0,0,0,NA
+Tampa,-11.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,152,1,NA,1,1,NA,1,1,1,1,0,1,1,0,1
+Boise,8,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,70.5,1,NA,0,1,0,1,1,1,1,0,1,1,1,1
+Philadelphia,10,1,NA,NA,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,-9,1,NA,0,1,NA,0,1,NA,1,0,0,0,0,NA
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,56,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,0,1,NA,0,1,0,1,1,NA,1,0,0,0,0,1
+Indianapolis,0,1,NA,NA,1,NA,0,0,NA,1,0,0,0,0,0
+Nashville,28,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Reno,18.5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Nashville,0,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+New Orleans,-5,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Indianapolis,-4,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Reno,11.5,1,NA,0,NA,NA,1,1,NA,1,0,0,0,0,NA
+Indianapolis,22,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tampa,-2.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,74,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,-7.5,1,NA,NA,1,NA,0,0,1,1,0,0,0,0,NA
+Indianapolis,10.5,1,NA,1,1,NA,1,1,0,1,0,0,0,0,0
+Nashville,6,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,0,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+Nashville,-8,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Philadelphia,43.5,1,NA,1,NA,NA,0,NA,NA,2,NA,NA,NA,NA,1
+Tucson,-15,1,NA,0,0,NA,0,1,NA,1,NA,NA,NA,NA,0
+St Louis,-11,1,NA,NA,NA,NA,1,0,1,NA,NA,NA,NA,NA,NA
+Tucson,0,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,25,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,45,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,0,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,78,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,1,1,0,1,1,NA,1,0,1,0,1,1
+Indianapolis,40.5,1,NA,1,0,1,1,1,1,1,0,0,0,0,1
+Tucson,0,1,NA,NA,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Reno,113,1,NA,1,1,NA,1,1,NA,2,0,1,1,0,0
+New Orleans,7,NA,NA,1,NA,NA,1,1,NA,1,NA,NA,NA,NA,0
+St Louis,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,18,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,-5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Boise,18,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,30,NA,NA,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tucson,12,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,72,1,NA,0,0,NA,1,1,NA,1,0,1,0,0,0
+Indianapolis,-14,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Tampa,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Philadelphia,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Nashville,17,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Reno,64,1,NA,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,15,NA,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,58.5,1,NA,0,1,NA,1,1,1,1,0,0,0,1,0
+Philadelphia,2.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,-39.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+New Orleans,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,NA,NA,NA,1,NA,NA,1,0,0,0,0,NA
+Tucson,14,1,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Philadelphia,-6.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,-11,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tampa,3.5,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Indianapolis,10.5,1,NA,0,1,NA,1,1,NA,2,NA,NA,NA,NA,0
+Reno,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,68,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Indianapolis,43.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Boise,6,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Indianapolis,-5,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tucson,106,1,NA,1,0,NA,1,1,0,1,0,1,1,0,0
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,7,1,NA,NA,NA,NA,1,1,1,1,0,0,0,0,0
+Santa Barbara,28,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+Tampa,300,1,NA,0,1,0,1,1,1,1,0,1,0,0,0
+Indianapolis,0,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+St Louis,-15.5,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+Indianapolis,142.5,1,NA,1,0,NA,1,1,NA,1,0,1,0,0,0
+Philadelphia,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,14,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Philadelphia,0,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,1,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Tucson,8,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+New Orleans,-8.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Boise,92,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tampa,0,1,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA
+St Louis,-3,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Reno,211.5,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Boise,7,1,1,NA,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,16.5,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Nashville,37.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,-7,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+New Orleans,6,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,0
+Indianapolis,0,1,NA,NA,NA,NA,1,0,1,NA,NA,NA,NA,NA,NA
+New Orleans,51,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,3.5,1,NA,0,1,NA,1,1,0,1,0,0,0,0,NA
+Nashville,-14,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+St Louis,20,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,10,1,NA,0,1,NA,1,1,1,2,NA,NA,NA,NA,0
+Indianapolis,-5,1,NA,0,0,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,24,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,72,1,NA,0,1,NA,1,1,1,1,1,1,0,0,0
+St Louis,5.5,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,18,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,33,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+New Orleans,11.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,5.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,19.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,18,1,NA,NA,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,9,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,39,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,-19,1,NA,0,0,NA,1,0,0,1,0,1,0,0,0
+Tucson,75,1,NA,1,NA,1,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,47,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Indianapolis,-10,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Philadelphia,25.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,-9,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,3,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,0,0,1,NA,NA,NA,NA,0
+Santa Barbara,0,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+Tampa,32,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,0
+New Orleans,20,1,1,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,90,1,NA,1,NA,NA,NA,NA,1,2,NA,NA,NA,NA,1
+Tampa,4,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,42,1,NA,0,0,NA,1,1,NA,1,0,0,0,1,0
+St Louis,28,1,NA,1,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,3.5,1,NA,0,1,NA,1,1,0,1,0,0,0,0,NA
+Nashville,-4.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Tucson,48,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,19.5,1,NA,0,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,-11,1,NA,1,0,NA,1,0,0,1,NA,NA,NA,NA,1
+Indianapolis,-7,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,-20.5,1,NA,1,0,NA,1,1,NA,1,0,0,0,0,0
+Boise,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,33,1,NA,1,1,NA,1,1,0,1,0,0,0,0,0
+St Louis,138,1,NA,1,0,NA,1,1,0,2,0,1,1,0,0
+Reno,264,1,NA,0,1,NA,1,1,NA,2,0,1,1,0,1
+Philadelphia,9,1,NA,0,NA,NA,0,0,NA,1,NA,NA,NA,NA,1
+Tampa,61.5,1,NA,1,0,NA,1,1,0,1,0,0,0,0,1
+Philadelphia,41,1,1,0,1,NA,1,1,1,1,0,1,1,0,0
+Philadelphia,-5,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Reno,13,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Nashville,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,15.5,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+Tampa,-8,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,-14.5,1,NA,NA,1,NA,NA,NA,1,1,NA,NA,NA,NA,0
+St Louis,57,1,NA,1,NA,1,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,-12,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,-11,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,11,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,6,1,NA,0,NA,NA,1,1,NA,1,0,0,0,0,NA
+Philadelphia,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Boise,12,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Reno,104,1,NA,1,0,NA,1,1,NA,1,0,1,1,0,1
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,3.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,27,1,NA,NA,0,0,1,1,1,1,0,0,0,0,0
+Tucson,7,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+St Louis,0,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,1
+Indianapolis,38,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,9.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,91.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,0,1,NA,0,1,NA,1,0,1,1,0,1,0,0,1
+Indianapolis,-22.5,1,0,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,15,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,62,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-3.5,1,NA,0,NA,NA,1,1,NA,1,0,0,0,0,NA
+Indianapolis,-13,1,NA,NA,NA,NA,0,NA,1,1,NA,NA,NA,NA,NA
+St Louis,51,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,69,1,NA,1,NA,NA,NA,NA,1,2,NA,NA,NA,NA,1
+Tampa,-5,1,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,48,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,166.5,1,NA,1,1,NA,1,1,NA,1,0,1,1,0,1
+Tampa,40,1,NA,1,1,NA,1,1,1,2,NA,1,1,1,1
+Tucson,10,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tampa,16,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,32,1,NA,1,1,NA,1,1,NA,1,1,1,0,0,1
+St Louis,-15.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,-11,1,NA,NA,NA,NA,0,0,1,1,0,0,0,0,1
+Indianapolis,3.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Reno,0,1,NA,1,1,0,1,1,1,1,0,0,0,0,1
+Indianapolis,19,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,35,1,NA,1,NA,NA,NA,NA,NA,2,0,0,0,0,1
+St Louis,-25,1,NA,0,1,NA,1,1,1,1,0,1,0,1,0
+Tucson,-74,1,NA,0,1,NA,1,0,1,1,0,0,0,0,NA
+Nashville,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,52.5,1,NA,1,NA,NA,1,NA,NA,2,NA,NA,NA,NA,1
+St Louis,-13.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Philadelphia,-7,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+New Orleans,8.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Santa Barbara,50,1,NA,1,NA,NA,1,0,NA,1,NA,NA,NA,NA,1
+Tucson,5.5,1,NA,1,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,-7,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,-31,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Boise,0,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,2,NA,NA,NA,NA,0
+Nashville,68,1,NA,1,1,NA,1,1,NA,1,0,0,0,1,1
+New Orleans,-7.5,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,11,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philadelphia,5.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+New Orleans,0,1,NA,NA,1,NA,1,NA,1,1,0,0,0,0,1
+Nashville,-36.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,21,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,-23,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Boise,30,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,51,1,NA,0,1,NA,1,1,1,1,0,1,0,0,1
+St Louis,3.5,1,NA,NA,NA,NA,NA,0,1,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,10,1,NA,0,1,NA,1,1,0,1,0,0,0,0,0
+St Louis,-4,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Tucson,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,-44.5,1,NA,0,1,NA,1,1,1,1,1,1,1,1,1
+Nashville,-12,1,1,1,1,0,1,1,1,NA,NA,NA,NA,NA,0
+Indianapolis,-13.5,NA,NA,1,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Indianapolis,16.5,1,1,0,NA,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,12,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,-9.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,10,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,8,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,24,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,42,1,NA,0,0,NA,1,1,NA,1,0,0,0,0,0
+Tucson,0,1,NA,0,0,NA,1,1,1,2,NA,NA,NA,NA,0
+Reno,-33.5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,-11.5,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,13,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,-16.5,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Tucson,108,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Nashville,39,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,72,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,-4,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,10,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,6,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,86,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,13.5,1,NA,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,1
+New Orleans,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,0
+St Louis,37.5,1,1,0,1,NA,0,0,NA,2,0,0,0,0,0
+Reno,22.5,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,0
+Tampa,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,14,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tampa,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Philadelphia,-4.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Boise,24,1,NA,1,1,NA,1,1,1,4,NA,NA,NA,NA,NA
+Philadelphia,22,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,0,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Indianapolis,0,1,NA,0,1,NA,0,0,1,1,0,0,0,0,1
+Tucson,-19.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,81,1,NA,1,0,NA,1,1,NA,2,0,1,1,0,1
+Tucson,14,1,NA,0,1,NA,1,1,NA,2,NA,NA,NA,NA,1
+Tampa,92,1,NA,1,NA,1,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,34.5,1,NA,1,NA,1,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,15,1,NA,1,1,NA,1,1,1,1,0,1,0,0,NA
+Tampa,-4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Santa Barbara,113,1,NA,1,NA,NA,1,NA,NA,2,NA,NA,NA,NA,1
+Boise,9,1,NA,0,0,NA,1,1,NA,1,0,0,0,0,0
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,66,1,1,0,1,NA,1,1,1,1,0,1,1,0,0
+Tampa,0,1,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,0,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,4,1,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,0
+Indianapolis,35,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,1
+Philadelphia,22,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,10.5,1,NA,1,0,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Tampa,-17,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,-10,1,NA,NA,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+New Orleans,47,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,-9.5,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tampa,135,1,NA,1,1,0,1,1,1,1,0,1,0,1,1
+Nashville,4,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,12,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-12,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,4,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,3,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tucson,0,1,NA,1,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Tampa,64,1,NA,1,1,NA,1,1,1,2,0,1,NA,1,1
+Tucson,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tucson,-34.5,1,NA,0,0,NA,1,1,1,1,0,0,0,0,0
+Tampa,-16.5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,14.5,1,NA,NA,1,NA,1,1,NA,2,0,0,0,0,0
+Indianapolis,51,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,3.5,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,30,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,5,1,NA,0,1,NA,1,1,1,1,0,0,0,1,0
+Tucson,5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,0
+Boise,102,1,NA,1,1,NA,1,1,1,1,0,1,1,0,1
+Tucson,5,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,6.5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Santa Barbara,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+New Orleans,3.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,29,1,NA,1,1,NA,1,1,1,2,0,NA,NA,1,1
+Indianapolis,22,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,10,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,17.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,55.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,154,1,NA,0,0,NA,1,1,NA,1,0,1,1,0,0
+Reno,-26,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,-6.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Boise,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,1,1,0,0,1
+Indianapolis,17,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,-12,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,38,1,NA,1,0,NA,1,1,NA,1,0,1,1,0,0
+St Louis,24,1,NA,1,1,NA,1,1,0,1,0,1,1,0,0
+Indianapolis,5.5,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Boise,9,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,5,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,1
+Indianapolis,7,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,270,1,1,1,0,0,1,1,1,1,0,1,1,1,1
+St Louis,6.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,0,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,55.5,1,NA,0,0,NA,1,1,NA,2,0,0,0,0,0
+Philadelphia,50,1,NA,0,NA,NA,1,0,NA,1,0,0,0,0,1
+St Louis,52,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,-9.5,1,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA
+Boise,13.5,1,NA,0,1,NA,1,0,1,2,NA,NA,NA,NA,0
+Indianapolis,-10,1,NA,0,1,NA,1,0,1,1,0,0,0,0,0
+Indianapolis,49.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,NA,1,NA,1,0,NA,2,0,1,0,0,0
+Tucson,18,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,0,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Tucson,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,8,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,0,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+Philadelphia,58,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,-7,1,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA
+Indianapolis,-20.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,18,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Reno,47,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-13.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Reno,26,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,9,1,1,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tucson,-4,1,NA,0,0,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,0,1,NA,NA,1,NA,1,1,1,NA,0,0,0,0,NA
+Tampa,0,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,1
+Nashville,-8.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,-3.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,57,1,NA,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,12,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,15,1,NA,0,1,NA,0,0,1,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Tucson,177,1,NA,1,0,0,1,1,0,1,0,1,1,0,0
+Reno,64.5,1,NA,0,0,NA,1,0,NA,1,0,0,0,0,0
+Indianapolis,-34,1,NA,0,1,0,1,1,1,1,0,0,0,0,NA
+Tucson,0,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+Philadelphia,48,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,11,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,10,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Nashville,-3.5,1,NA,0,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Philadelphia,15,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,-12,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,-6.5,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Boise,0,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,1
+New Orleans,12,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Philadelphia,-11,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,-31,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,48,1,NA,1,0,NA,1,1,1,1,0,1,1,0,0
+Indianapolis,37,1,1,1,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tampa,3,1,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA
+Tampa,96,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,-2.5,1,NA,0,0,NA,1,0,1,1,NA,NA,NA,NA,0
+Tucson,141,1,NA,1,1,NA,1,1,1,1,0,1,1,0,1
+St Louis,12,1,NA,1,1,NA,NA,NA,NA,NA,0,0,0,0,NA
+Tampa,6.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+New Orleans,-8,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,20,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,5,1,NA,NA,NA,NA,1,0,1,1,0,0,0,0,1
+Tampa,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tampa,3.5,1,NA,NA,NA,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Santa Barbara,60,1,1,1,1,1,1,1,0,1,0,0,0,0,1
+St Louis,3,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,9.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,156,1,NA,0,1,0,1,1,1,1,0,1,1,1,1
+Philadelphia,3.5,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,49.5,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,-9.5,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+St Louis,11,1,1,1,1,NA,0,0,1,1,NA,NA,NA,NA,0
+Indianapolis,3.5,1,NA,0,0,NA,0,1,1,1,NA,NA,NA,NA,0
+Nashville,18,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,18,1,NA,1,1,NA,1,1,0,1,0,0,0,0,0
+Boise,5.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Reno,38.5,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,-12,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Philadelphia,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,9,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,27,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,4.5,1,NA,0,NA,NA,1,0,1,1,NA,NA,NA,NA,1
+Reno,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tucson,117,1,1,1,0,0,1,1,1,1,0,1,1,1,1
+Boise,10.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,87,1,NA,1,1,NA,1,1,1,1,0,1,1,1,1
+Indianapolis,4,1,NA,1,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+St Louis,-90,1,NA,0,1,NA,1,0,1,1,0,0,0,1,1
+Tucson,15,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,-13,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,20.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,39,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,87,1,NA,0,NA,0,1,NA,NA,1,NA,NA,NA,NA,1
+Tampa,-7,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Tucson,50,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,-5,1,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,-5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,15.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,3.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,-8.5,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,33.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,-21,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,1,1,1,NA,1,1,1,1,0,1,1,0,0
+Tampa,7.5,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Tampa,-13,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,0,0,NA,0,0,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,0,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,1
+Tampa,-21,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,18,1,NA,1,NA,NA,1,1,0,1,0,0,0,0,NA
+Tucson,19.5,1,NA,0,1,NA,1,0,0,1,0,0,0,0,NA
+Indianapolis,-5,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+New Orleans,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Nashville,3,1,NA,NA,1,NA,1,NA,1,1,0,0,0,0,NA
+Tucson,56,1,1,1,0,NA,1,1,NA,1,0,0,0,0,1
+Tucson,103,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,24,1,NA,1,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Reno,0,1,NA,0,NA,NA,NA,NA,NA,1,0,0,0,0,1
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,7.5,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Nashville,7,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,-16,1,NA,0,1,NA,1,1,NA,2,0,0,0,0,NA
+St Louis,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,-4.5,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Reno,53,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,7.5,NA,NA,NA,1,NA,NA,NA,1,NA,0,0,0,0,NA
+Tucson,-2.5,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+New Orleans,87,1,NA,1,0,NA,1,1,0,2,0,1,1,0,0
+New Orleans,-22,1,NA,0,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+Boise,0,1,NA,1,1,NA,NA,NA,1,1,0,0,0,0,0
+Nashville,0,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Tucson,26,1,NA,0,1,NA,1,1,NA,1,1,1,1,0,1
+Tampa,21,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Santa Barbara,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,-15,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,67,1,NA,1,1,0,1,1,1,1,NA,1,1,1,1
+Tampa,7,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Reno,79.5,1,NA,1,NA,1,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,22,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,-25.5,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+Nashville,10.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,-18,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+New Orleans,31,1,NA,NA,NA,NA,NA,NA,1,2,NA,NA,NA,NA,1
+Reno,-55.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,1,1
+St Louis,3.5,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Boise,43.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Santa Barbara,99,1,NA,1,NA,NA,0,1,NA,1,NA,NA,NA,NA,1
+Tampa,-9,1,NA,NA,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+New Orleans,-13,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,6,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,-5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,0,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,0
+Tampa,46,1,1,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,-13,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,10.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,80,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,8.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-15.5,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Tucson,17.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,12,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0,1
+Reno,580,1,NA,1,0,0,1,1,1,1,0,1,1,0,0
+Tucson,-20.5,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,1
+Indianapolis,57,1,NA,1,1,NA,1,1,NA,1,0,1,1,0,1
+Nashville,-4.5,1,NA,NA,1,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Philadelphia,7,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Philadelphia,-4,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Boise,12,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-8.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,-3,1,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,8,1,NA,0,1,NA,1,0,1,1,0,1,0,0,1
+Philadelphia,-5.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,6,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+St Louis,-7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Boise,5.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Santa Barbara,21,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,12,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Reno,48,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+New Orleans,-8.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,9.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Boise,-8,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Reno,0,1,NA,0,1,0,1,1,NA,1,0,0,0,0,1
+Tucson,6,1,NA,1,NA,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,-11.5,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+St Louis,11.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Boise,5.5,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,0
+Reno,0,1,NA,0,0,NA,0,0,NA,1,NA,NA,NA,NA,0
+Tampa,0,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,41,1,NA,0,1,NA,1,1,0,1,NA,NA,NA,NA,0
+Tampa,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,46,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Tampa,18,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,27,NA,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,9,1,NA,NA,1,NA,NA,1,1,1,0,0,0,0,1
+Philadelphia,28.5,1,NA,NA,NA,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,62,1,NA,1,NA,0,1,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,25,1,NA,1,1,1,1,0,1,1,0,0,0,0,NA
+Indianapolis,-10,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Reno,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,6,NA,NA,NA,1,NA,NA,NA,1,NA,0,0,0,0,NA
+Tampa,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,34.5,1,NA,1,NA,1,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,110,1,1,1,1,0,1,1,1,1,1,0,1,1,0
+Philadelphia,52.5,1,NA,0,1,NA,1,1,1,2,0,0,0,0,NA
+Nashville,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,-28.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,42,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+Nashville,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,5.5,1,1,NA,NA,NA,1,1,1,1,0,0,0,0,0
+Santa Barbara,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,0,1,NA,NA,1,NA,1,1,1,1,0,1,0,0,NA
+Tucson,8.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-9,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Tampa,-7.5,1,NA,0,0,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,12,1,NA,NA,1,NA,0,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,1,NA,NA,NA,NA,1,1,0,0,0,0,NA
+Indianapolis,3.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Nashville,-13,1,NA,0,1,NA,0,0,1,1,NA,NA,NA,NA,0
+New Orleans,-15,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Tucson,-5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Boise,4,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tucson,28,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,-8.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,3,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,-23.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,76,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,5.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+New Orleans,2.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,NA,0,NA,1,0,0,0,0,NA
+Boise,126,1,1,1,0,NA,1,1,1,1,0,1,1,1,1
+Indianapolis,-15,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Reno,48,1,NA,1,NA,0,1,NA,1,2,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,0
+Philadelphia,0,1,NA,0,NA,NA,1,1,NA,1,0,0,0,0,0
+Philadelphia,-7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Reno,-17,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Boise,0,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,90,1,NA,0,0,0,1,1,0,2,0,1,0,0,0
+Tampa,-21,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Santa Barbara,11,1,1,1,0,NA,1,1,NA,1,0,0,0,0,0
+Philadelphia,5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Santa Barbara,25.5,1,NA,1,1,NA,1,1,0,1,0,0,0,0,NA
+Philadelphia,13.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,23,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tucson,22,1,NA,1,1,NA,1,1,0,1,NA,NA,NA,NA,0
+Boise,-5,1,1,1,1,NA,1,1,0,1,0,0,0,0,0
+Tampa,27.5,1,1,1,1,NA,1,1,1,1,0,1,0,0,0
+Tucson,3.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Reno,16.5,NA,NA,NA,1,NA,NA,NA,1,NA,0,0,0,0,NA
+Tampa,7.5,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Tampa,20,1,NA,0,1,NA,1,1,NA,1,NA,1,NA,NA,1
+Nashville,0,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+New Orleans,34,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Tampa,53,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,47.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,17,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+St Louis,3.5,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,20,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+New Orleans,-6.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+New Orleans,5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,15,1,NA,0,1,0,1,1,1,1,0,0,0,0,NA
+Boise,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,24,1,NA,1,1,NA,1,1,0,1,0,1,1,0,0
+New Orleans,9,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+St Louis,0,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+Reno,77,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,-10.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Santa Barbara,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,-34.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tampa,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,51,1,NA,1,1,NA,1,1,NA,2,0,1,0,0,0
+Philadelphia,16.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,264,1,NA,1,0,0,1,1,1,1,1,1,1,0,0
+Tucson,8,NA,NA,0,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,-8.5,1,NA,0,1,NA,0,0,1,1,NA,NA,NA,NA,0
+Tampa,-6.5,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Boise,9,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,12,1,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,1
+Philadelphia,6,1,NA,NA,0,NA,1,1,NA,1,0,0,0,0,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,13,1,NA,0,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,0,1,NA,1,NA,NA,NA,NA,1
+Tucson,49.5,1,1,1,1,NA,1,1,1,1,0,1,0,0,0
+New Orleans,-9.5,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,23.5,1,NA,0,1,NA,1,1,0,2,0,0,0,0,0
+Tampa,6,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,46.5,1,NA,1,0,0,1,1,NA,1,0,1,0,0,0
+Philadelphia,2.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,69,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-6.5,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Reno,13,1,1,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,117,1,NA,1,NA,1,0,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Philadelphia,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,26,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-7.5,1,NA,0,1,NA,0,0,1,1,NA,NA,NA,NA,NA
+Boise,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,5.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,26,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Reno,-51.5,1,NA,0,1,0,1,1,1,1,0,0,0,1,1
+Tucson,-13,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Philadelphia,-11.5,1,1,0,1,NA,1,1,1,1,1,1,0,0,0
+Philadelphia,23,1,NA,0,NA,NA,NA,NA,1,2,NA,NA,NA,NA,1
+St Louis,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tucson,72,1,NA,1,1,NA,1,1,0,1,0,1,0,0,0
+St Louis,48,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,0,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,-16,1,NA,0,1,NA,0,1,1,1,0,0,0,0,1
+St Louis,-4.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,1,1,NA,1,1,NA,1,NA,1,NA,NA,1
+St Louis,69,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,15.5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+St Louis,0,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,12,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tampa,-13.5,1,NA,0,NA,NA,1,1,1,1,0,0,0,0,NA
+Nashville,79,1,1,1,1,NA,1,0,1,1,0,1,0,0,0
+Tampa,138,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,-11.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,-8.5,1,NA,NA,NA,NA,1,1,1,1,0,0,0,0,NA
+St Louis,12,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,15,1,NA,1,1,NA,1,1,1,1,0,1,0,0,0
+New Orleans,-27,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+New Orleans,0,1,NA,0,1,NA,1,1,NA,1,0,1,1,1,1
+Tampa,9.5,1,NA,NA,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Tampa,64,1,NA,1,0,NA,1,1,NA,2,NA,NA,NA,NA,0
+Tucson,246,1,NA,1,0,0,1,1,1,1,0,1,1,0,0
+Indianapolis,0,1,NA,NA,1,NA,1,1,NA,1,0,1,0,0,1
+Indianapolis,13.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+St Louis,18,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Tucson,0,1,NA,1,NA,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,33,1,NA,0,0,NA,1,1,0,1,0,0,0,0,0
+New Orleans,6,1,NA,0,0,NA,1,0,1,1,NA,NA,NA,NA,NA
+St Louis,-45,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Nashville,-14.5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,1,1,0,1,1,1,1,NA,NA,NA,NA,1
+Nashville,-10.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,19,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+St Louis,3.5,1,NA,0,1,NA,1,0,1,1,0,0,0,0,0
+Tucson,70.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,10.5,1,NA,NA,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Tucson,10.5,1,NA,0,1,NA,1,1,1,1,0,1,1,0,1
+Nashville,6,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,8,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,-12,1,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,NA
+Tampa,14.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,0,1,1,1,1,0,1,NA,1,NA,NA,NA,NA,NA,0
+Boise,0,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Indianapolis,-9.5,1,NA,NA,NA,NA,NA,1,NA,1,0,0,0,0,NA
+St Louis,29,1,1,0,0,NA,1,0,NA,1,0,0,0,0,1
+St Louis,5,NA,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,16,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,0
+Tampa,-13,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Boise,34.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,21,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Tucson,0,1,NA,NA,NA,NA,1,NA,NA,NA,0,0,0,0,NA
+Indianapolis,-23.5,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Nashville,16,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,22.5,1,NA,0,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,6,1,NA,NA,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Tucson,31,1,NA,1,1,NA,1,1,1,2,NA,NA,NA,NA,0
+Philadelphia,16.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,1,1,1
+Indianapolis,12,1,1,NA,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,18,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Santa Barbara,-24.5,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Boise,6,NA,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,-4.5,1,NA,0,0,NA,0,0,1,1,NA,NA,NA,NA,0
+Indianapolis,-5,1,NA,0,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA
+Santa Barbara,45,1,NA,1,1,NA,1,1,1,1,0,1,1,0,1
+Nashville,0,1,1,1,1,NA,NA,1,1,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,58.5,1,1,1,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+St Louis,-22,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,18,1,NA,1,1,NA,1,0,0,1,0,0,0,0,NA
+Tucson,17.5,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Indianapolis,8,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,32,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,-4.5,1,NA,NA,NA,NA,0,NA,1,1,0,0,0,0,1
+St Louis,0,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,0
+Philadelphia,0,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,30,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Nashville,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Nashville,15,1,NA,0,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,1,NA,1,1,NA,2,NA,NA,NA,NA,1
+Tampa,-14.5,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+St Louis,0,1,1,1,NA,NA,1,0,1,1,NA,NA,NA,NA,0
+Philadelphia,36,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,15,1,NA,0,1,NA,1,1,NA,2,0,0,0,0,0
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,-28.5,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+St Louis,0,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Boise,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Tampa,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,43,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,20,1,NA,1,1,NA,1,1,0,1,0,1,1,0,0
+St Louis,0,1,NA,1,1,NA,1,0,NA,1,0,0,0,0,0
+Santa Barbara,9,1,NA,1,1,NA,1,1,1,1,0,1,1,0,1
+Nashville,0,1,1,1,1,0,NA,NA,1,NA,NA,NA,NA,NA,0
+St Louis,0,1,NA,0,1,NA,1,1,NA,2,NA,NA,NA,NA,0
+Nashville,-30,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Philadelphia,7.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,-35,1,NA,0,1,NA,0,0,1,1,0,0,0,0,0
+Nashville,-5,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Tucson,12,1,1,1,1,0,1,0,1,1,0,0,0,0,0
+St Louis,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,1,1,NA,1,1,1,1,0,1,1,0,1
+Nashville,-14,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,6,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tampa,105,1,NA,0,0,NA,1,1,0,1,0,1,1,0,1
+Tucson,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,94.5,1,NA,1,1,0,1,1,1,1,0,1,1,1,1
+Philadelphia,0,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,15.5,1,NA,1,1,NA,NA,1,NA,2,0,0,0,0,1
+St Louis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,25.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,12,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Philadelphia,-3.5,1,NA,NA,NA,NA,NA,0,1,1,NA,NA,NA,NA,NA
+Tucson,12,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,-5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-14,1,NA,NA,NA,NA,1,0,1,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA
+Tampa,30,1,1,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,124,1,NA,1,1,0,1,1,NA,1,0,1,0,1,1
+Philadelphia,15,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,1
+Tucson,8,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,-4,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,52.5,1,1,0,0,NA,0,1,NA,2,0,0,0,0,1
+Tucson,7,1,NA,0,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,66,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,10.5,NA,NA,0,NA,NA,NA,0,NA,1,NA,NA,NA,NA,NA
+Tucson,8.5,0,NA,1,0,NA,1,0,1,1,NA,NA,NA,NA,0
+Philadelphia,124,1,NA,1,0,NA,1,1,NA,2,0,0,0,1,1
+Philadelphia,-5.5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Nashville,60,1,NA,1,0,NA,1,1,NA,1,0,1,0,0,0
+St Louis,10,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,-3.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Reno,26,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,18,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Boise,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Boise,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,97.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Santa Barbara,15.5,1,NA,1,0,NA,1,1,NA,2,NA,NA,NA,NA,1
+Tucson,6,1,NA,1,0,NA,1,1,NA,1,0,1,0,0,0
+Nashville,-42.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,22,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,NA
+New Orleans,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,-27.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,18,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Indianapolis,14,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,22,1,NA,1,1,NA,1,1,NA,1,0,1,0,0,1
+Nashville,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Boise,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,-20.5,1,NA,NA,NA,NA,NA,0,1,1,NA,NA,NA,NA,0
+Santa Barbara,14,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,8,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,-27,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,0,1,NA,1,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+New Orleans,130,1,NA,0,NA,0,1,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,1,1,NA,0,0,1,1,0,0,0,0,1
+Tampa,-9,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,24,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,14,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,-11.5,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Reno,0,1,NA,0,0,NA,1,1,1,1,0,1,1,0,0
+Indianapolis,-17,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,-3.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,9,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+St Louis,31.5,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,19,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Tampa,15,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,9,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+New Orleans,29,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,-29.5,1,1,1,1,NA,1,1,1,1,0,1,0,1,1
+Indianapolis,6,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Reno,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,46,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,40,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,76,1,NA,0,1,NA,1,1,0,1,0,1,1,0,0
+New Orleans,-8.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,20,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,12.5,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-4.5,1,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,1
+Tampa,10,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,26,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,NA,NA,NA,NA,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,13.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Reno,26,1,NA,1,1,0,1,1,1,1,0,0,0,0,0
+Philadelphia,0,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,14,1,NA,0,1,NA,1,0,0,1,NA,NA,NA,NA,1
+Nashville,20,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,-5.5,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+Tampa,0,1,NA,0,NA,NA,1,1,NA,1,0,0,0,0,NA
+Tampa,-10,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Reno,8,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,2.5,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Indianapolis,8,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,7,1,NA,0,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,3,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+New Orleans,6.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Tampa,0,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+Philadelphia,17,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,10.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,34,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,79,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,12.5,1,NA,NA,1,NA,0,1,NA,NA,0,0,0,0,NA
+Indianapolis,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,4,1,NA,1,NA,NA,1,1,1,1,0,0,0,0,NA
+Tampa,4,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Reno,16.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,45,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,61.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,11,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tucson,7,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,54.5,1,NA,1,1,NA,1,1,1,2,0,1,1,NA,1
+Philadelphia,75,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,18,NA,NA,NA,NA,NA,1,1,NA,2,NA,NA,NA,NA,NA
+New Orleans,-11.5,1,NA,NA,1,NA,1,NA,1,1,0,0,0,0,NA
+New Orleans,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Tucson,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,10,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,-8,1,NA,1,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Indianapolis,24,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,13,NA,NA,NA,1,NA,0,0,1,1,0,0,0,0,1
+Tucson,21,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,-26.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,12,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,-13,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+New Orleans,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,118.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,51,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,30,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,-14.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,0
+Indianapolis,12,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,NA
+Nashville,15,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Reno,-29,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+St Louis,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Philadelphia,-17,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Boise,30,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Santa Barbara,28.5,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+Philadelphia,35.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,36.5,1,NA,1,1,NA,1,1,0,1,0,1,1,0,0
+Tucson,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,13,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Nashville,7.5,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,20,1,NA,1,1,NA,1,1,1,1,0,1,0,0,0
+Nashville,-13,1,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-16.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Boise,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,4.5,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,24,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,15,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,16,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+St Louis,19.5,1,1,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Tampa,6,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,-11.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,-12,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+New Orleans,38,1,NA,1,NA,NA,1,NA,NA,2,NA,NA,NA,NA,1
+St Louis,0,1,NA,1,1,NA,0,0,1,1,0,0,0,0,0
+Nashville,12.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-3.5,NA,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+New Orleans,16.5,1,NA,1,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,30,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-6,1,NA,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,-15.5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,8.5,1,1,1,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Philadelphia,3,1,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,-7.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,58.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,15.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,15,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Tucson,42,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,6.5,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-18,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+New Orleans,-7,1,NA,NA,NA,NA,0,0,NA,1,0,0,0,0,0
+Tampa,27,1,1,1,1,NA,1,1,NA,1,0,1,0,0,0
+Philadelphia,24,1,NA,1,0,NA,1,0,NA,2,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Reno,0,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+St Louis,-31,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Reno,37,1,NA,1,1,NA,1,0,NA,1,0,0,0,0,0
+Indianapolis,42,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Santa Barbara,-20.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Indianapolis,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Tucson,0,1,NA,1,1,NA,1,1,1,1,0,1,1,0,0
+New Orleans,-6,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Nashville,17,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,16.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+St Louis,-38,1,1,1,1,0,1,0,1,1,0,1,0,0,0
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,3.5,NA,NA,NA,NA,NA,NA,1,1,1,0,0,0,0,NA
+Philadelphia,18,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,1,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+St Louis,35,1,NA,0,1,NA,1,1,NA,1,0,1,NA,0,0
+Tampa,0,1,NA,0,1,NA,1,0,1,1,0,0,0,0,NA
+Tucson,5.5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,36,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-6.5,1,NA,NA,NA,NA,1,0,1,1,NA,NA,NA,NA,NA
+Tucson,14,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Indianapolis,12.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Nashville,79,1,NA,1,0,NA,1,1,NA,2,NA,NA,NA,NA,1
+Indianapolis,-4,1,NA,NA,NA,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,2,NA,NA,NA,NA,1
+New Orleans,12,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Philadelphia,0,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+Indianapolis,25,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,18,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Santa Barbara,36,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,232.5,1,1,0,0,0,1,1,1,1,0,1,1,1,1
+Santa Barbara,8.5,1,1,1,0,NA,1,1,NA,1,0,0,0,0,0
+Boise,15,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,1
+Santa Barbara,12,1,1,1,0,NA,1,1,NA,1,0,0,0,0,1
+Philadelphia,-6,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,56,1,NA,1,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+Nashville,-23,1,NA,NA,1,NA,NA,0,1,1,0,0,0,0,1
+St Louis,132,1,NA,0,1,0,1,1,NA,1,0,1,0,0,1
+Reno,17,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Tucson,24,1,NA,0,1,NA,1,1,0,1,0,1,0,0,0
+Tucson,19,1,NA,1,0,NA,1,1,NA,2,0,1,0,0,NA
+Tucson,0,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,-12,1,NA,0,1,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Nashville,-19.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-17,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,10.5,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Reno,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+St Louis,0,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,NA,NA,0,0,1,1,NA,NA,NA,NA,1
+St Louis,27,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,-12.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Indianapolis,3,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,-17,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+New Orleans,31.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,3,1,NA,NA,1,NA,1,1,1,1,0,1,0,0,1
+Indianapolis,9.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+New Orleans,6,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,82.5,1,NA,1,0,0,1,1,NA,1,0,1,1,0,1
+Philadelphia,0,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Indianapolis,166,1,NA,1,NA,0,1,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,12,1,NA,1,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,1
+Santa Barbara,127.5,1,NA,1,NA,1,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,-27,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,5.5,1,1,0,NA,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Tucson,18,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Nashville,10,1,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA
+St Louis,5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Reno,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Tampa,-13.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,-30,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,7,1,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+Boise,4,1,1,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Indianapolis,8.5,1,NA,NA,1,NA,1,1,NA,NA,0,0,0,0,NA
+Boise,10,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,26,1,NA,1,NA,NA,1,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,-5.5,NA,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,44,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,0,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Reno,-15,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,40.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,58.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,15,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,24,1,NA,0,0,NA,1,1,NA,2,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,0,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Indianapolis,5.5,1,NA,0,NA,NA,1,0,NA,2,NA,NA,NA,NA,1
+Nashville,16,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Philadelphia,-9.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,7,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Boise,-9,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,0
+Reno,0,1,NA,0,1,NA,1,1,NA,1,NA,1,1,1,0
+Tucson,28,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Santa Barbara,5,1,NA,0,1,NA,1,1,0,1,0,0,0,0,NA
+New Orleans,37.5,1,NA,1,1,NA,NA,0,NA,NA,0,0,0,0,NA
+Nashville,5.5,1,NA,NA,NA,NA,1,NA,NA,1,0,0,0,0,NA
+Indianapolis,-18.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Philadelphia,7.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,3.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+Tampa,48,1,NA,0,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,25.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,36,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,NA,NA,0,1,1,1,0,0,0,0,1
+Tampa,-5,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0,NA
+Nashville,0,1,NA,0,NA,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,-5.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,46,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Reno,-32.5,1,NA,0,1,NA,1,1,1,1,0,1,1,0,1
+Indianapolis,6,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Indianapolis,0,1,NA,0,NA,NA,1,0,NA,2,NA,NA,NA,NA,NA
+Tampa,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,-5.5,1,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,0
+Boise,5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,119,1,NA,1,1,0,1,1,1,2,0,1,NA,1,1
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,-8,1,NA,0,1,NA,1,1,0,1,0,0,0,0,NA
+Boise,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tampa,13,NA,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,19,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,39,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,0,NA,NA,NA,1,NA,0,NA,1,1,0,0,0,0,NA
+Nashville,-4.5,1,NA,1,1,NA,1,1,0,1,0,0,0,0,0
+New Orleans,9,1,1,0,1,NA,1,1,1,1,0,0,0,0,0
+Tampa,48,1,NA,1,1,NA,1,1,1,1,0,1,0,1,1
+St Louis,0,NA,NA,NA,NA,NA,NA,0,NA,1,NA,NA,NA,NA,0
+Boise,8.5,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Nashville,55.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,21,1,NA,NA,NA,NA,1,0,1,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,0
+Indianapolis,5.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,5.5,1,NA,0,1,NA,1,1,1,1,0,1,0,0,NA
+Philadelphia,-25,1,NA,NA,NA,NA,1,0,1,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Reno,0,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Indianapolis,7.5,1,NA,1,1,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Reno,0,1,NA,1,1,NA,1,0,1,1,0,0,0,0,0
+St Louis,40.5,1,NA,0,1,NA,1,1,1,1,0,1,0,0,1
+Philadelphia,-22,1,NA,0,0,NA,1,1,0,1,0,1,0,0,1
+Tampa,31.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,0,1,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tampa,48,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,15,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+St Louis,-17,1,NA,0,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,6.5,1,NA,0,NA,NA,0,1,NA,1,NA,NA,NA,NA,0
+Philadelphia,-8,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,3,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Boise,-18.5,1,NA,0,1,NA,1,0,1,1,0,0,0,0,NA
+St Louis,25.5,1,NA,0,1,NA,0,1,NA,1,NA,NA,NA,NA,NA
+Tucson,20,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+St Louis,9.5,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,-7.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+New Orleans,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Nashville,13.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Boise,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,-4,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Nashville,-12,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,210,1,NA,1,0,0,1,1,1,1,0,1,1,0,0
+Philadelphia,7,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,69,1,NA,1,1,0,1,1,0,1,0,0,0,0,NA
+Tampa,6,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,18,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,8,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Santa Barbara,464,1,NA,1,1,0,1,1,1,1,0,1,1,1,1
+Tucson,0,1,1,1,1,0,1,0,1,1,NA,NA,NA,NA,0
+Boise,-11.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,48,1,NA,0,0,NA,0,0,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Philadelphia,3.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,0,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Philadelphia,41,1,NA,1,0,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,14.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,1,0,1,1
+Tucson,22.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,26,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,10,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Reno,-53,1,NA,0,1,0,1,1,1,1,1,1,0,1,1
+Reno,-26.5,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Tucson,15,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,13,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Tampa,38,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,-14.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,21,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,NA
+St Louis,27,1,NA,0,1,NA,1,1,NA,2,NA,NA,NA,NA,0
+Tampa,-7.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,39,1,NA,1,0,NA,1,1,NA,1,0,1,1,0,1
+Indianapolis,4,1,1,0,0,0,1,1,NA,1,NA,NA,NA,NA,0
+Nashville,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,9.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,7,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Philadelphia,-6,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,12.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tucson,16,1,NA,1,NA,NA,1,NA,1,1,NA,NA,NA,NA,0
+Philadelphia,-4,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,8,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,15,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,-3,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,50,1,NA,1,0,NA,1,1,0,1,0,0,0,0,0
+Reno,11,1,NA,NA,1,NA,1,0,NA,1,0,0,0,0,NA
+Indianapolis,-9.5,1,NA,1,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Tampa,0,1,NA,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,12,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,46,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Philadelphia,-7.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+New Orleans,9,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Reno,16,1,NA,1,1,NA,0,1,1,1,0,0,0,0,0
+Santa Barbara,88,1,NA,1,1,NA,1,1,NA,1,0,1,1,1,1
+Tucson,24,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,16,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,14,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,11.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,4.5,1,NA,0,NA,0,0,NA,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,-9,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Santa Barbara,27,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,7,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,12,NA,NA,0,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Boise,4,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Nashville,-20,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Nashville,0,1,1,NA,1,NA,0,0,1,1,NA,NA,NA,NA,0
+Indianapolis,17,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Reno,49.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,-26.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Tampa,-9.5,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,NA
+Philadelphia,-28.5,1,NA,NA,NA,NA,0,1,1,1,0,0,0,0,1
+Tucson,3.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,-12.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,123,1,1,NA,1,NA,1,1,1,1,0,1,0,0,1
+Tucson,14,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,0
+Tampa,3.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,0,1,0,0,0,0,NA
+Tucson,0,1,NA,0,0,NA,1,0,NA,2,NA,NA,NA,NA,0
+Philadelphia,2.5,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,-5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,1,1,0,1,1,1,1,0,0,0,0,1
+Philadelphia,8,NA,NA,0,1,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,-4,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,5.5,1,NA,0,1,NA,0,0,1,1,NA,NA,NA,NA,1
+Nashville,-20,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+St Louis,-23,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+New Orleans,27,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,9,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,NA
+New Orleans,-2.5,0,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,NA,0
+Tucson,66,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,151.5,1,NA,1,1,0,1,1,1,1,0,1,1,0,0
+Reno,109.5,1,1,1,1,NA,1,1,1,1,0,1,1,0,0
+Indianapolis,3.5,1,NA,NA,NA,NA,0,NA,1,NA,0,0,0,0,NA
+Nashville,10.5,1,NA,1,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Tucson,-4,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+New Orleans,3.5,1,NA,NA,NA,NA,NA,0,NA,1,NA,NA,NA,NA,NA
+Tampa,-12,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Indianapolis,2.5,1,NA,0,1,NA,1,1,0,1,0,0,0,0,NA
+Nashville,-17.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Philadelphia,-3,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,60,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,-6.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,NA,NA,NA,1,0,NA,1,0,0,0,0,NA
+Reno,-19,NA,NA,NA,1,NA,NA,NA,1,1,0,0,0,0,0
+Reno,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+St Louis,4,1,NA,0,NA,NA,1,0,NA,1,0,0,0,0,NA
+Philadelphia,8,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,-18.5,1,NA,0,1,NA,0,0,1,1,0,0,0,0,0
+Tampa,13.5,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Reno,33,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Boise,-4,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Santa Barbara,138,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,6.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+St Louis,-16,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Nashville,-37,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+New Orleans,0,1,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,37,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,96,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,5.5,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philadelphia,40.5,1,NA,0,1,NA,1,1,NA,2,NA,1,NA,NA,NA
+Santa Barbara,28,1,NA,1,1,NA,1,1,1,1,0,1,0,0,0
+Tucson,5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,16,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+St Louis,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,-33.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,28.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Tucson,0,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Tampa,83,1,NA,1,1,NA,1,0,NA,1,NA,1,1,0,1
+Indianapolis,12,1,NA,NA,1,NA,1,0,1,1,0,0,0,0,1
+Philadelphia,19.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,0,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+Tampa,-11.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,0,1,NA,0,1,NA,1,1,0,1,0,0,0,0,NA
+Tampa,-10.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+New Orleans,-7,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philadelphia,42,1,NA,1,NA,NA,1,1,NA,2,NA,NA,NA,NA,1
+Philadelphia,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tampa,48,1,1,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+St Louis,0,1,NA,0,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,42,1,1,1,0,1,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-3.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,31,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,27,1,NA,1,1,NA,1,1,0,1,0,1,0,0,1
+St Louis,0,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,-14,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,0
+New Orleans,0,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,0
+Reno,76,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Nashville,73.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tampa,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,-7,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Philadelphia,-4,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Reno,67,1,NA,0,1,NA,1,0,1,2,0,0,0,0,0
+Tampa,-4.5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Nashville,-29,1,NA,0,1,NA,1,1,NA,1,1,1,1,0,1
+Philadelphia,-11.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,-22.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,-16,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,5,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Reno,-16.5,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,0
+St Louis,22.5,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,362,1,NA,1,0,0,1,1,1,1,1,1,1,0,0
+St Louis,0,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,139,1,NA,1,1,NA,1,1,NA,2,0,1,NA,1,1
+Tampa,0,1,NA,0,1,NA,0,0,NA,1,0,0,0,0,0
+Santa Barbara,0,1,NA,0,0,NA,1,1,0,1,0,1,1,0,0
+Philadelphia,3.5,1,NA,1,NA,NA,1,NA,NA,1,NA,NA,NA,NA,1
+Nashville,0,NA,NA,NA,1,NA,NA,NA,1,1,0,0,0,0,NA
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Nashville,-7,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,51,1,NA,1,1,NA,1,1,1,2,0,1,0,1,1
+St Louis,18,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Nashville,16,1,1,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,0
+Tampa,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Philadelphia,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,10,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,0,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,0
+Philadelphia,47,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,75,1,NA,0,0,NA,1,1,NA,1,0,1,1,0,0
+Philadelphia,13.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Indianapolis,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Boise,-10,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Nashville,35,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,74,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,-3,1,NA,NA,1,NA,1,0,1,1,0,0,0,0,1
+St Louis,-21,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,25,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,242,1,NA,1,0,0,1,1,1,1,1,1,1,0,0
+Tampa,54,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,41,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,-6,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Reno,-3.5,1,NA,1,0,NA,1,0,NA,1,NA,NA,NA,NA,0
+Tucson,16,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,-5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Philadelphia,50,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Reno,3.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,0,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,85.5,1,NA,0,1,NA,1,1,NA,2,1,1,1,0,0
+St Louis,-8.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tucson,-10.5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,4.5,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Tampa,12.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Boise,-15.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,36,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,-20,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,1
+Tucson,78,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tampa,25,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,-7,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,-5,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Tucson,10,1,NA,1,NA,NA,NA,NA,NA,1,0,0,0,0,1
+Indianapolis,-9.5,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,0
+Nashville,0,1,NA,NA,1,NA,0,0,1,1,NA,NA,NA,NA,NA
+Tampa,-10,1,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,NA
+St Louis,82.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,124.5,1,NA,1,NA,1,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,44,1,NA,1,NA,1,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,-4.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+St Louis,0,1,NA,0,1,NA,1,0,1,1,0,0,0,0,NA
+Nashville,123,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,-6,1,NA,0,1,NA,0,0,NA,4,0,0,0,0,NA
+Reno,33,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,4.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Reno,16,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Philadelphia,81,1,NA,1,1,NA,1,1,1,1,0,1,1,1,1
+Tucson,129,1,NA,1,0,0,1,1,0,2,0,1,1,0,0
+Indianapolis,71,1,1,1,1,NA,1,1,1,1,0,1,1,0,0
+St Louis,12,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Santa Barbara,0,1,NA,1,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,42,1,NA,1,1,NA,1,1,NA,1,0,1,0,0,0
+Reno,24,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,15.5,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,1
+Tucson,18,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,0
+St Louis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+St Louis,105,1,NA,1,0,NA,1,1,NA,2,0,1,1,0,0
+Philadelphia,18,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Nashville,0,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+Tampa,0,1,NA,0,1,NA,0,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,11,1,NA,0,1,NA,1,1,1,1,0,0,0,1,0
+Santa Barbara,31,1,NA,0,1,0,1,1,1,1,0,0,0,0,0
+Philadelphia,0,1,NA,0,1,NA,1,0,NA,1,0,1,0,0,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,NA,NA,1,1,1,1,0,0,0,0,NA
+Reno,12,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tampa,-3.5,NA,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,5,1,NA,1,NA,NA,1,1,NA,NA,NA,NA,NA,NA,1
+New Orleans,7.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Nashville,-6.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,19.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,2.5,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Reno,36,1,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,0
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,0,1,NA,0,0,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-14,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,6,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Nashville,17.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,1
+Nashville,16.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,1,1,NA,1,0,0,1,0,0,0,0,0
+St Louis,26,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Philadelphia,10,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,8,1,NA,1,1,NA,1,0,NA,1,0,0,0,0,NA
+Indianapolis,-12,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+Tampa,0,1,NA,0,1,NA,1,0,NA,1,NA,1,NA,1,0
+St Louis,7.5,NA,NA,0,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,NA
+Philadelphia,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,-8,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,1
+Tampa,61.5,1,NA,NA,1,NA,NA,NA,NA,NA,0,0,0,0,NA
+Indianapolis,9,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+New Orleans,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Indianapolis,11,1,NA,0,1,NA,NA,1,NA,1,0,0,0,0,NA
+Philadelphia,96,1,NA,0,0,NA,1,1,1,1,0,1,0,0,1
+St Louis,5.5,1,NA,1,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Boise,-5,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Philadelphia,5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,-18,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,NA
+Nashville,-4,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,-22.5,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,7,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,6.5,1,NA,0,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,-3.5,0,NA,NA,1,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,2.5,1,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,0,1,NA,0,NA,NA,1,0,1,1,NA,NA,NA,NA,NA
+Tucson,21,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Philadelphia,-11,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,76,1,NA,1,NA,1,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,11,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,17.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Tucson,20,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,0,1,NA,0,1,NA,1,0,1,1,0,1,1,0,0
+Nashville,0,1,NA,0,0,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Nashville,7,NA,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,1,0,1,1
+Santa Barbara,40,1,NA,1,NA,1,1,1,NA,2,NA,NA,NA,NA,1
+Nashville,-2.5,1,NA,0,1,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Tucson,92,1,NA,1,0,NA,1,1,0,1,0,1,1,0,0
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,14.5,1,NA,0,0,NA,1,0,1,1,NA,NA,NA,NA,NA
+Tucson,17,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Tampa,-14,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,-11,1,NA,0,1,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Indianapolis,32,1,NA,1,1,0,NA,1,1,NA,0,0,0,0,1
+Nashville,0,1,1,1,1,0,1,0,1,1,NA,NA,NA,NA,0
+New Orleans,7,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,79,1,NA,0,1,NA,1,1,NA,2,0,1,1,0,0
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Philadelphia,9.5,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,0
+Tampa,-4.5,1,NA,1,1,NA,0,0,NA,1,NA,NA,NA,NA,1
+Tucson,8,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+St Louis,-9.5,1,NA,0,NA,NA,1,NA,1,1,NA,NA,NA,NA,NA
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,32,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,12,1,NA,NA,NA,NA,1,0,NA,1,0,0,0,0,NA
+Nashville,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Boise,5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,3,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,40,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Nashville,-12,1,NA,0,1,NA,1,0,NA,1,0,0,1,0,NA
+Indianapolis,64,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,80,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,41,1,NA,1,0,NA,1,1,NA,1,0,1,0,1,1
+Indianapolis,10,1,NA,1,1,NA,1,0,1,1,0,0,0,0,NA
+New Orleans,-31.5,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Reno,10,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,-21,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Reno,-22,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Indianapolis,-20,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Tampa,49.5,1,NA,0,0,NA,1,1,NA,1,0,1,0,0,0
+New Orleans,21,1,NA,0,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,32,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,86,1,NA,0,1,NA,1,1,1,2,NA,1,1,1,1
+Philadelphia,-12.5,1,NA,NA,1,NA,1,0,1,1,0,0,0,0,1
+Reno,0,1,NA,1,1,0,1,0,1,2,0,0,0,0,NA
+Nashville,13,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,134,1,NA,0,0,NA,1,1,0,1,0,1,1,0,0
+Boise,8,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Santa Barbara,16.5,1,NA,1,1,NA,1,0,1,1,0,0,0,0,0
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,40,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Indianapolis,0,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Reno,-38,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,2,NA,1,NA,NA,NA
+Tucson,27.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,11,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,NA
+Boise,42,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Reno,0,1,NA,0,1,NA,1,1,1,1,1,1,0,0,0
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,19.5,NA,NA,1,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Indianapolis,5,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,0,1,NA,NA,1,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,0,1,0,0,0,0,0
+Indianapolis,5,1,NA,0,0,NA,1,0,NA,2,NA,NA,NA,NA,0
+St Louis,0,1,NA,1,1,NA,1,1,NA,2,0,0,0,0,0
+Indianapolis,5.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,1,1,NA,1,1,0,1,0,0,0,0,0
+Tampa,3,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Reno,5,1,NA,NA,NA,NA,1,0,NA,1,0,0,0,0,0
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,0,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,60.5,1,NA,1,1,0,1,1,1,2,0,1,1,1,1
+Philadelphia,9.5,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,12,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,16,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,12,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,-12.5,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,1
+St Louis,6,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,5.5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,96,1,NA,1,1,0,1,1,1,1,0,1,0,0,1
+Indianapolis,-8.5,1,NA,NA,1,NA,1,0,1,1,0,0,0,0,1
+Santa Barbara,29,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,4.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,0,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Philadelphia,5,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tampa,-3,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,33,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,-5.5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Nashville,57.5,1,NA,0,1,NA,1,1,NA,1,1,1,0,0,0
+Nashville,196,1,NA,0,1,NA,1,1,1,1,0,1,0,0,1
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+New Orleans,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Philadelphia,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Boise,0,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Reno,13,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+New Orleans,16.5,1,NA,0,NA,NA,NA,NA,1,2,NA,NA,NA,NA,1
+Reno,22.5,1,NA,1,0,NA,1,1,NA,1,0,0,0,0,0
+St Louis,21,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+New Orleans,17,1,NA,NA,1,NA,NA,NA,NA,1,0,0,0,0,1
+Santa Barbara,20,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Philadelphia,36,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,12,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,8,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,79,1,NA,0,1,NA,1,1,1,1,0,1,1,1,0
+Nashville,8,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,10.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Tampa,-13,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,3.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+St Louis,33,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,0,1,1,1,1,0,1,1,1,2,NA,NA,NA,NA,0
+Philadelphia,14,1,1,1,1,NA,1,1,1,1,0,1,1,0,0
+St Louis,6.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,12,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Santa Barbara,39,1,NA,1,NA,1,NA,NA,1,NA,NA,NA,NA,NA,1
+Tucson,11,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,47,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Tampa,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,27,1,1,0,0,NA,1,1,1,1,NA,NA,NA,NA,0
+Tampa,-4,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Boise,6,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,0,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,24,1,NA,0,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,0,1,NA,1,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,1
+Nashville,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Nashville,-9,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Reno,33,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,7,1,NA,1,1,NA,1,1,1,1,0,1,0,0,0
+St Louis,27,1,NA,1,1,NA,1,1,0,1,0,0,0,0,0
+Tampa,62,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Nashville,-6,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,63,1,NA,1,0,NA,1,1,NA,1,0,1,1,0,0
+Tucson,7.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Boise,-17,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,29,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Tucson,13,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,0,NA,NA,NA,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Indianapolis,0,1,NA,0,NA,NA,1,1,NA,1,0,0,0,0,0
+Nashville,45,1,NA,1,1,NA,1,1,0,1,0,1,1,0,0
+St Louis,21.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,10,1,NA,0,1,NA,1,1,0,1,0,0,0,0,NA
+Boise,3.5,1,NA,1,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tampa,31,1,1,1,1,0,1,0,1,1,0,0,0,0,0
+Tucson,41,1,NA,0,1,NA,1,1,1,1,0,1,1,0,0
+Indianapolis,-6.5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Boise,0,1,NA,1,1,NA,1,1,1,2,0,1,0,0,1
+Boise,36,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,210,1,1,1,0,NA,1,1,1,1,0,1,1,1,1
+Tucson,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,6,1,NA,1,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Nashville,-6.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,-5.5,1,NA,0,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,18,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,8,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Boise,23,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-10,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+St Louis,50,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,11.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+New Orleans,-5.5,1,NA,NA,NA,NA,1,0,1,1,0,0,0,0,NA
+Tampa,0,1,NA,NA,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tucson,13.5,1,NA,0,1,0,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,5,1,NA,0,1,NA,1,0,NA,2,0,0,0,0,0
+Philadelphia,-9,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Philadelphia,10,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,0,1,NA,0,1,NA,1,0,NA,1,0,1,0,0,1
+Reno,30,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,10,1,NA,1,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,-8,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Indianapolis,4,NA,NA,NA,1,NA,NA,NA,1,1,0,0,0,0,NA
+New Orleans,-10.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Philadelphia,11,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-10.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,9,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,-26,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,-10,1,NA,NA,1,NA,NA,NA,NA,1,0,0,0,0,NA
+Philadelphia,15,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,75,1,NA,1,NA,0,1,NA,NA,2,NA,NA,NA,NA,1
+Tampa,0,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,-6.5,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,1,0,0,1
+Tampa,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0
+Tucson,20,1,NA,0,1,NA,1,1,1,1,0,1,0,0,1
+Indianapolis,7,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,-6.5,1,NA,1,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,24,1,NA,0,1,NA,1,1,1,1,1,1,0,1,1
+Reno,-3.5,1,NA,1,0,NA,0,0,NA,1,NA,NA,NA,NA,1
+Nashville,32,1,1,1,0,1,NA,1,1,1,0,0,0,0,1
+Philadelphia,3.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,-5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Tampa,18,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,75,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,1,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+St Louis,-6,1,NA,NA,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA
+Reno,66,1,NA,0,1,NA,1,1,NA,1,NA,NA,1,NA,0
+Reno,0,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,0
+Philadelphia,-8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nashville,-3.5,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,1,1,NA,1,1,1,1,0,1,1,0,0
+Indianapolis,10.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+St Louis,-9.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Boise,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,15.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,-7.5,1,NA,0,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Reno,36,1,NA,1,1,NA,1,1,1,1,1,1,1,0,0
+Tampa,33,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+St Louis,-21.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,6.5,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Boise,-10.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,0,NA,NA,NA,1,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Indianapolis,36,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,1,1,1,1,0,0,0,0,1
+Tampa,4,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tampa,94,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,7.5,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,0,1,NA,0,1,NA,1,0,1,1,0,0,0,0,NA
+Philadelphia,-25,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,52.5,1,NA,1,1,NA,1,1,NA,1,0,1,0,0,1
+Philadelphia,-13.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,34,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Nashville,7,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Philadelphia,-15,1,NA,NA,NA,NA,1,NA,1,1,0,0,0,0,1
+Santa Barbara,30,1,NA,1,0,NA,1,1,NA,1,0,1,0,0,NA
+Tucson,-3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nashville,60,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,19,1,1,1,0,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-23.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+St Louis,-6,NA,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,7,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Boise,20,1,1,0,1,NA,0,0,1,1,0,0,0,0,0
+Tucson,14,1,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,0
+Tucson,0,1,NA,0,1,NA,1,0,1,1,0,0,0,0,0
+Nashville,8.5,1,1,NA,1,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Philadelphia,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tucson,8,1,NA,0,1,NA,0,0,NA,1,NA,NA,NA,NA,0
+Philadelphia,114,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,10,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,72,1,NA,1,NA,1,1,NA,NA,2,NA,NA,NA,NA,1
+New Orleans,31,1,1,1,1,NA,1,0,1,1,0,0,0,0,0
+Philadelphia,-49,1,NA,0,1,NA,1,1,0,1,0,0,0,0,0
+Philadelphia,-3.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Boise,3,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tampa,-9,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,2.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,0,0,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,1
+Indianapolis,75,1,NA,0,1,NA,1,1,NA,2,0,0,0,0,0
+St Louis,-28.5,1,NA,0,0,NA,1,1,1,1,0,0,0,0,1
+St Louis,15,1,NA,1,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-14.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,2.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0,NA
+Philadelphia,4.5,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,30,1,1,1,NA,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,-9.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,47,1,NA,1,0,0,1,1,NA,2,0,1,NA,1,1
+Philadelphia,312,1,NA,0,0,0,1,1,0,2,0,1,0,0,0
+Tucson,213,1,NA,1,1,0,1,1,1,1,0,1,1,0,0
+Reno,8.5,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Reno,0,1,1,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,184,1,NA,1,0,0,1,1,1,1,0,0,0,0,1
+Philadelphia,2.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,13,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,9,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,7.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,-54,1,NA,0,1,NA,1,0,1,1,0,0,0,1,1
+Indianapolis,7.5,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Tucson,-12,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,1,NA,NA,1,0,NA,1,NA,NA,NA,NA,1
+St Louis,-9,1,NA,NA,1,NA,0,0,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Tucson,0,1,NA,0,0,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,0,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,8,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Boise,0,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,124.5,1,NA,1,0,0,1,1,1,1,0,1,1,1,1
+Tampa,30,1,NA,1,1,NA,1,1,NA,1,0,1,0,0,0
+Philadelphia,75,1,1,1,0,NA,1,1,1,1,0,1,0,0,0
+Philadelphia,-13,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Nashville,0,1,NA,0,0,NA,1,1,1,1,0,1,0,0,1
+Indianapolis,-14,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,11.5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,10.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,-8.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,8.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,3,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+St Louis,-6.5,1,NA,0,1,NA,1,0,1,1,0,0,0,0,NA
+Indianapolis,3,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Tucson,12.5,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Tucson,55.5,1,1,1,0,NA,1,1,1,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,1,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,0
+Tampa,-8,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tampa,10,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+St Louis,50,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,17,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,3,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Tampa,8.5,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tampa,-7,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Philadelphia,6,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tampa,44,1,NA,1,NA,1,1,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,0,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,8,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-3,1,NA,NA,NA,NA,1,0,1,1,NA,NA,NA,NA,1
+Tucson,3.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+New Orleans,34,1,NA,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,9,1,NA,0,1,NA,1,1,NA,1,0,1,NA,NA,1
+St Louis,-13,NA,NA,NA,1,NA,NA,NA,1,1,0,0,0,0,1
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,32,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,-10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Reno,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,0,NA,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,NA
+Philadelphia,-10.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,49,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Philadelphia,0,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,-2.5,1,NA,0,NA,NA,NA,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,12,1,NA,NA,1,NA,1,0,NA,2,NA,NA,NA,NA,NA
+Santa Barbara,47,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,-10,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,0,1,NA,0,1,NA,1,1,1,1,0,0,1,1,1
+St Louis,34,1,NA,0,1,NA,1,1,1,1,1,1,0,0,0
+Tucson,0,1,NA,0,NA,NA,0,0,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,1
+Nashville,17.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Reno,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,-16,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Tucson,10.5,1,NA,0,NA,NA,1,1,NA,1,0,0,0,0,NA
+Tampa,27,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,NA
+St Louis,35,1,1,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,8.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-8,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+New Orleans,15,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,15,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,7,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tucson,14,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Philadelphia,49.5,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,12,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,-14,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,3.5,1,NA,NA,1,NA,0,0,0,1,NA,NA,NA,NA,0
+Santa Barbara,36.5,1,NA,0,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,10,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Tucson,-32.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Tucson,3.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,-31,1,1,1,1,NA,1,1,1,1,0,1,0,1,1
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+St Louis,19,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,13.5,1,NA,0,1,NA,1,0,1,1,0,1,0,0,1
+Tampa,4.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,-15,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,-13,1,NA,1,1,NA,1,1,1,1,0,0,0,0,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Reno,73,1,1,1,1,NA,1,1,1,1,0,1,0,0,0
+Philadelphia,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Nashville,0,NA,NA,NA,NA,NA,NA,NA,1,NA,0,0,0,0,NA
+Indianapolis,11.5,1,NA,1,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tucson,-20,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,-8.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+New Orleans,63,1,NA,1,0,0,1,1,1,2,0,1,NA,1,1
+Indianapolis,-3,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Tampa,85.5,1,NA,1,NA,NA,NA,NA,1,2,NA,NA,NA,NA,1
+Tucson,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,21,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tucson,152,1,NA,1,0,NA,1,1,1,1,0,1,1,0,0
+St Louis,14,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,5,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,NA
+Indianapolis,17.5,1,NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Indianapolis,3,1,NA,NA,NA,NA,1,NA,1,1,NA,NA,NA,NA,1
+New Orleans,64,1,NA,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
+Boise,0,1,NA,0,NA,NA,1,1,1,1,0,0,0,0,NA
+St Louis,48,1,NA,1,0,NA,1,1,0,1,0,1,1,0,0
+Indianapolis,0,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Tucson,142.5,1,NA,1,1,NA,1,1,1,1,0,1,0,0,0
+Nashville,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Boise,112.5,1,NA,0,0,NA,1,1,NA,1,0,1,1,0,0
+Philadelphia,-4.5,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Tampa,35,1,NA,0,0,0,1,1,NA,2,NA,NA,NA,NA,1
+Tucson,8,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Nashville,44,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,15,1,NA,1,1,NA,1,1,0,2,0,0,0,0,1
+Tampa,106,1,NA,0,0,NA,1,1,0,1,0,1,1,0,0
+Tampa,-14,1,NA,0,1,NA,1,0,1,1,0,0,0,0,0
+Philadelphia,21,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,-28.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,28,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,-16.5,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0,NA
+Philadelphia,0,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Tucson,12,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Tucson,17,1,1,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tucson,121.5,1,1,0,1,NA,1,1,1,1,0,1,1,0,1
+St Louis,12,1,NA,NA,NA,NA,1,1,NA,2,NA,NA,NA,NA,NA
+Tampa,15,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,1
+St Louis,17,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,66,1,1,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,75,1,NA,0,1,0,1,1,1,1,0,1,0,0,0
+Tucson,13.5,NA,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,2,0,0,0,0,0
+Philadelphia,0,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+New Orleans,-15.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+Boise,45,1,NA,1,NA,NA,1,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,10,1,NA,1,1,NA,1,0,1,1,0,0,0,0,1
+St Louis,-5,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+St Louis,-13,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,3.5,1,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA
+Tucson,4.5,1,NA,1,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,-6,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,2.5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+New Orleans,111,1,NA,1,NA,NA,1,NA,NA,1,NA,NA,NA,NA,1
+Boise,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,16,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Indianapolis,-13.5,1,NA,0,1,NA,NA,NA,NA,1,0,0,0,0,NA
+New Orleans,-22.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tampa,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Nashville,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,-7.5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,0,1,1,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,0
+Boise,13,1,1,1,1,NA,1,0,1,1,0,1,0,0,0
+St Louis,68,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,5,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nashville,0,1,NA,0,0,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+Nashville,8.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,49.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,3,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tucson,42,1,NA,1,1,NA,1,1,1,1,0,1,1,1,0
+Philadelphia,-5,1,NA,NA,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,124,1,NA,1,1,NA,1,1,1,1,0,1,1,0,1
+Philadelphia,16.5,1,NA,0,1,NA,1,1,0,1,0,0,0,0,0
+St Louis,6,1,NA,0,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+New Orleans,0,1,NA,0,NA,NA,1,1,1,1,0,0,0,0,1
+Tucson,12.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Reno,381,1,NA,0,0,0,1,1,0,2,0,1,1,0,0
+Tucson,26,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,4,1,NA,NA,0,NA,1,1,0,2,0,0,0,0,1
+Boise,5,1,NA,NA,NA,NA,1,1,1,1,0,0,0,0,NA
+Tucson,14,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,55.5,1,NA,1,1,NA,1,0,1,1,0,1,1,0,0
+Boise,12,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+New Orleans,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+St Louis,12,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Indianapolis,-13.5,1,NA,NA,NA,NA,1,0,1,1,NA,NA,NA,NA,NA
+Tucson,13,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,0,1,NA,NA,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Santa Barbara,37.5,1,NA,1,NA,NA,1,NA,NA,1,NA,NA,NA,NA,1
+St Louis,-20,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Boise,15,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Indianapolis,-3,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Philadelphia,51,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Nashville,6.5,NA,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Nashville,23,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Philadelphia,59,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,9,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,14,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,-28,1,NA,0,NA,NA,1,NA,1,1,NA,NA,NA,NA,NA
+Santa Barbara,8.5,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,-11,1,NA,NA,NA,NA,0,0,1,1,NA,NA,NA,NA,0
+Santa Barbara,13,1,1,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+St Louis,16,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Tampa,22,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,194,1,NA,0,0,0,1,1,0,1,0,1,1,0,0
+Boise,38,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Philadelphia,-12,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,6,NA,NA,NA,1,NA,1,NA,NA,1,0,0,0,0,NA
+St Louis,28.5,1,NA,1,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,1
+Philadelphia,3,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,9,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,40,1,NA,1,1,NA,1,1,0,1,0,1,0,0,1
+Tampa,8.5,1,NA,0,1,NA,0,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,5,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,NA,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Santa Barbara,42,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,-2.5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+New Orleans,-3,1,NA,0,1,NA,0,0,0,1,0,0,0,0,0
+Indianapolis,13.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Boise,-6.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Reno,8,1,NA,1,1,NA,1,1,1,1,0,0,0,0,NA
+Tampa,-14.5,1,NA,0,1,NA,0,0,NA,1,0,0,0,0,NA
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tucson,110,1,NA,1,0,NA,1,1,0,1,0,1,1,0,0
+Philadelphia,3,1,1,0,NA,NA,1,1,0,1,0,0,0,0,0
+Santa Barbara,-9.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,69,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Reno,18.5,1,NA,0,1,0,1,1,1,1,0,1,0,0,0
+New Orleans,-10,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Indianapolis,3,1,1,1,1,NA,1,0,NA,1,0,0,0,0,1
+Indianapolis,-7,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,0
+Philadelphia,34,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+St Louis,64.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Philadelphia,0,1,NA,NA,NA,NA,NA,0,NA,1,0,0,0,0,0
+Indianapolis,11,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,0,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+Tucson,0,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Indianapolis,7,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tampa,6,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,6,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA
+Tampa,36,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,1
+Tampa,77.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,7.5,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Boise,6,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,8,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tampa,31.5,1,NA,1,0,NA,1,1,1,1,0,0,0,0,0
+Indianapolis,5,NA,NA,NA,NA,NA,1,NA,NA,1,0,0,0,0,NA
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,6,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+New Orleans,-8,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Boise,13,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Philadelphia,3,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,-15,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+New Orleans,-5.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Nashville,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,-18.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Santa Barbara,0,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,1
+Tucson,67.5,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+Tucson,0,1,NA,1,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,3,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,18,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Indianapolis,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Boise,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,6,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+New Orleans,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,-9,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+Nashville,-9,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,NA
+Nashville,9.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,0
+Tucson,24,1,NA,NA,1,NA,1,0,NA,NA,NA,NA,NA,NA,NA
+Philadelphia,13.5,1,1,1,1,NA,1,0,1,1,0,0,0,0,NA
+Indianapolis,29,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Nashville,25.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Indianapolis,0,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,0
+Tucson,13.5,1,NA,1,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,26,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Boise,2.5,NA,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,60,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Tampa,40.5,1,1,1,1,NA,1,0,1,1,NA,NA,NA,NA,0
+Tucson,0,1,NA,NA,NA,NA,NA,0,NA,1,NA,NA,NA,NA,NA
+Tampa,46,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+New Orleans,-9.5,1,NA,NA,NA,NA,1,0,NA,1,0,0,0,0,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,0,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Nashville,0,1,NA,1,1,NA,1,1,1,2,NA,1,NA,1,1
+Tampa,-15.5,1,NA,0,1,NA,0,1,1,1,NA,NA,NA,NA,1
+Tucson,6,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Indianapolis,9,1,NA,1,1,NA,1,1,0,1,0,0,0,0,0
+Nashville,-8,1,NA,0,1,NA,NA,1,NA,1,0,0,0,0,NA
+Philadelphia,24,1,NA,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tampa,24,1,NA,1,NA,1,1,NA,NA,2,NA,NA,NA,NA,1
+Nashville,38.5,1,NA,1,1,0,1,1,1,1,0,1,1,1,1
+Nashville,0,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Tampa,52,1,NA,0,1,NA,1,1,NA,2,0,0,0,0,0
+Indianapolis,37,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,22,1,1,0,NA,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,124.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,0,1,NA,1,1,NA,1,1,1,2,0,1,0,1,1
+Boise,5.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Indianapolis,4.5,1,1,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Tampa,-14,1,NA,NA,1,NA,1,1,NA,1,0,0,0,0,NA
+Indianapolis,58,1,NA,0,0,NA,1,1,1,1,0,1,0,0,1
+St Louis,0,1,1,NA,NA,NA,0,NA,1,1,NA,NA,NA,NA,0
+Tucson,16.5,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Indianapolis,22.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,-19.5,1,NA,1,1,NA,1,0,1,1,NA,NA,NA,NA,1
+St Louis,12,1,NA,NA,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Nashville,40,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,10,1,NA,1,1,NA,1,1,NA,1,0,0,0,0,0
+Indianapolis,-16,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+New Orleans,5,NA,NA,NA,NA,NA,NA,NA,NA,1,0,0,0,0,NA
+Tucson,42,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,103,1,NA,1,1,NA,1,1,1,1,0,1,1,1,1
+St Louis,-4.5,1,NA,0,1,NA,0,1,1,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,7,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+St Louis,12,1,NA,0,NA,NA,0,0,NA,1,NA,1,NA,NA,0
+Philadelphia,7,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Nashville,-8.5,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tampa,-8.5,1,NA,0,NA,NA,0,0,NA,1,0,0,0,0,NA
+Philadelphia,35,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,62.5,1,1,0,0,0,1,1,1,1,0,1,1,1,1
+St Louis,38,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,25,1,NA,1,1,NA,1,1,1,1,0,1,0,0,0
+Indianapolis,192,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tampa,-6,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tucson,13,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,45,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tucson,13.5,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,-17.5,1,NA,0,1,NA,0,1,0,1,0,0,0,0,1
+Philadelphia,12,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,NA
+New Orleans,0,1,NA,0,1,NA,1,1,1,1,1,1,0,0,0
+Nashville,5,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,NA
+Tucson,16.5,1,1,0,0,NA,NA,1,1,1,0,0,0,0,1
+New Orleans,-5.5,1,NA,NA,1,NA,NA,0,NA,NA,0,0,0,0,0
+Tucson,36,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Nashville,13,1,NA,0,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+St Louis,18.5,1,1,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,42.5,1,NA,1,1,NA,1,1,NA,1,0,1,1,1,1
+Tampa,9,1,NA,0,1,NA,1,0,NA,1,0,0,0,0,0
+Reno,67,1,NA,1,NA,1,1,NA,1,1,NA,NA,NA,NA,1
+Indianapolis,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,NA
+Indianapolis,52,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Nashville,4,1,NA,0,NA,NA,1,0,1,1,NA,NA,NA,NA,1
+Tucson,-14,1,NA,NA,1,NA,0,0,1,1,NA,NA,NA,NA,1
+Nashville,16,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,6,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+Tucson,5,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,-3,1,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,-14.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+New Orleans,-15,1,NA,NA,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,-3.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+New Orleans,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+New Orleans,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA
+Tampa,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nashville,16,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+St Louis,82.5,1,NA,1,1,NA,1,1,1,1,0,1,0,0,1
+Tucson,0,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Tucson,16.5,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,0
+Philadelphia,37.5,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,-9,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Philadelphia,22,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,-33,1,NA,0,1,NA,1,0,1,1,0,0,0,0,1
+Tucson,17,1,NA,0,1,NA,1,1,0,1,0,0,0,0,0
+Indianapolis,10,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+Indianapolis,-5,1,1,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+Indianapolis,66,1,NA,1,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Philadelphia,22,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,24,1,NA,NA,NA,NA,1,1,NA,3,NA,NA,NA,NA,1
+St Louis,3,1,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,0
+St Louis,0,NA,NA,NA,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,29,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Nashville,-16,1,NA,0,NA,NA,NA,1,NA,1,NA,NA,NA,NA,1
+Philadelphia,-7,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+St Louis,22.5,1,NA,1,1,NA,1,0,1,1,0,0,0,0,1
+Tucson,207,1,NA,1,1,0,1,1,NA,1,0,1,1,0,1
+Tampa,3,1,1,1,0,0,NA,NA,1,1,NA,NA,NA,NA,0
+Philadelphia,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,0,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,NA
+Philadelphia,46,1,1,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,0,1,NA,NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA
+Philadelphia,0,1,NA,0,1,NA,1,1,NA,2,0,0,0,0,0
+Tampa,-11.5,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,0
+Santa Barbara,93,1,1,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,NA,NA,NA,1,1,NA,1,0,0,0,0,NA
+Philadelphia,-5.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Reno,97,1,NA,1,NA,NA,NA,NA,1,2,NA,NA,NA,NA,1
+St Louis,0,1,NA,0,1,NA,1,1,1,1,0,0,0,1,1
+Nashville,57,1,1,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,14,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,0
+Indianapolis,6,NA,NA,NA,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,-16,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Nashville,20,1,NA,1,1,NA,1,1,NA,1,0,0,0,1,1
+Philadelphia,34.5,1,NA,0,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
+Philadelphia,13,1,NA,0,0,NA,1,1,NA,1,NA,NA,NA,NA,1
+Tucson,23,1,NA,0,1,NA,1,1,NA,1,0,0,0,0,1
+St Louis,19.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Boise,25,1,NA,1,1,NA,1,1,0,1,0,1,0,0,0
+St Louis,-6,1,1,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,0
+St Louis,-13.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,0,1,1,0,1,NA,1,1,1,1,0,0,0,0,1
+New Orleans,-176,1,NA,0,0,NA,0,0,1,1,0,0,0,1,1
+Indianapolis,6.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Indianapolis,6.5,1,1,0,1,NA,1,1,1,1,0,1,0,0,0
+Santa Barbara,37,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,4,1,NA,0,0,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,9,1,NA,0,NA,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+St Louis,17.5,1,NA,NA,1,NA,1,1,0,1,0,0,0,0,NA
+Philadelphia,0,1,NA,NA,1,NA,1,1,0,1,0,0,0,0,0
+St Louis,84,1,1,1,1,NA,1,1,1,1,0,1,1,1,1
+St Louis,0,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,1
+New Orleans,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
+Tampa,0,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+St Louis,-17.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Indianapolis,-12,1,NA,0,1,NA,0,0,1,1,NA,NA,NA,NA,1
+Tucson,6,1,NA,0,1,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,11.5,1,NA,0,1,NA,1,0,1,1,NA,NA,NA,NA,NA
+Reno,-60.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,1
+St Louis,4,1,NA,1,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Tucson,-16,1,1,1,1,0,1,1,1,1,NA,NA,NA,NA,0
+New Orleans,-35.5,1,1,1,1,NA,1,1,1,1,0,0,0,1,1
+St Louis,-15.5,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Tampa,-10.5,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,1
+St Louis,3.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Nashville,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,31,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nashville,12,1,NA,0,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Philadelphia,224,1,NA,0,1,0,1,1,1,1,0,1,1,1,1
+Reno,68,1,NA,1,NA,0,1,NA,NA,1,NA,NA,NA,NA,1
+Tucson,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Reno,-5,NA,NA,NA,NA,NA,NA,1,NA,1,0,0,0,0,NA
+Indianapolis,-10.5,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA
+Tucson,13.5,1,NA,0,1,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,11,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Indianapolis,39.5,1,NA,1,1,0,1,1,1,2,0,1,NA,1,1
+Tucson,14,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tucson,38,1,NA,1,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,57,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Santa Barbara,23,1,NA,1,1,NA,1,1,1,1,0,1,0,0,0
+Santa Barbara,45,1,NA,0,1,NA,1,1,1,1,0,1,0,0,0
+Philadelphia,18,1,NA,0,1,NA,1,1,NA,1,0,1,0,0,0
+Tucson,34.5,1,NA,1,1,NA,1,1,1,1,0,0,0,0,0
+St Louis,5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Indianapolis,-80,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+Boise,22,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Philadelphia,-7,1,NA,0,1,NA,0,NA,NA,1,NA,NA,NA,NA,NA
+Nashville,8,NA,NA,0,1,NA,1,NA,1,1,NA,NA,NA,NA,NA
+Boise,26,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Tucson,0,1,NA,0,0,NA,1,1,1,3,NA,NA,NA,NA,0
+St Louis,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+Nashville,16,1,1,NA,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Tucson,19.5,1,NA,1,1,NA,1,1,1,1,0,0,0,1,1
+Reno,23,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Philadelphia,-5,1,NA,NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,1
+Santa Barbara,-3.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tucson,58,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Boise,-8.5,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tampa,24,1,NA,1,1,0,1,1,1,1,0,0,0,0,1
+Tucson,67.5,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Tampa,115.5,1,1,0,0,0,1,1,1,1,0,1,0,1,1
+Nashville,6.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,1
+New Orleans,-10.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,0
+New Orleans,2.5,1,NA,NA,NA,NA,NA,0,NA,1,NA,NA,NA,NA,NA
+Reno,42,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,0
+Indianapolis,-7.5,1,NA,0,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA
+Tucson,17,1,NA,0,1,NA,1,1,0,1,0,1,0,0,1
+Reno,8.5,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Philadelphia,0,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Indianapolis,10,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,-8,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,NA
+St Louis,0,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Tampa,25,1,NA,0,1,NA,1,1,1,1,0,0,0,0,NA
+Tampa,0,1,NA,NA,NA,NA,0,1,1,1,0,0,0,0,NA
+Tampa,24,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tucson,0,1,NA,0,1,NA,1,1,0,1,0,0,0,0,0
+Reno,-21,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,0,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Nashville,0,1,NA,NA,1,NA,1,1,0,1,0,0,0,0,NA
+Tucson,10,1,NA,1,1,NA,0,0,1,1,0,0,0,0,1
+St Louis,46.5,1,NA,1,NA,0,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,20.5,1,NA,0,1,NA,1,1,1,1,0,1,0,1,NA
+Philadelphia,0,1,NA,1,1,NA,1,1,1,2,NA,1,1,1,1
+Philadelphia,-6,1,NA,0,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Tampa,-14,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,1
+Indianapolis,30,1,NA,0,1,NA,1,1,1,1,NA,NA,NA,NA,1
+Tucson,-4.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Tampa,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+Nashville,-3,1,NA,NA,1,NA,1,1,1,1,0,0,0,0,1
+Tucson,32.5,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Boise,13.5,1,NA,0,1,NA,1,1,NA,1,NA,NA,NA,NA,NA
+Indianapolis,7,1,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA
+St Louis,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+Tampa,-15,1,NA,0,1,NA,1,1,1,1,0,0,0,0,0
+Philadelphia,17,1,NA,0,NA,NA,NA,NA,1,2,NA,NA,NA,NA,1
+Tucson,13.5,1,NA,0,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+St Louis,2.5,1,NA,NA,NA,NA,1,0,NA,1,NA,NA,NA,NA,NA
+Indianapolis,66,1,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,1
+Indianapolis,3.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Indianapolis,58,1,NA,1,NA,0,NA,NA,NA,1,NA,NA,NA,NA,1
