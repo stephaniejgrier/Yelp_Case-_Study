@@ -195,7 +195,7 @@ cat("\nNumber of businesses after removing AB and VT:", nrow(clean_df), "\n")
 #  census_api_key(api_key, install = TRUE)
 #  message("Census API key installed. Restart R session for changes to take effect.")
 
-# Run once: setup_census_api("dcea899293b345bf3a621e5a1b560b6adbfabb9f")
+# Run once: setup_census_api("your-api-here")
 
 # Define Metro areas and their display names 
 # Metro areas defined by Metro zip code data downloaded from data.mongabay.com
