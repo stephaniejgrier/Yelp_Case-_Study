@@ -4,3 +4,20 @@
 .httr-oauth
 .DS_Store
 .quarto
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*/rsconnect/
+archive (17)/
+data/raw/
+outputs/
+metro_map_app/zctas20.rds
+duplicate_files_I_think/
+.Rproj.user
+.httr-oauth
+.DS_Store
+.quarto
+archive (17).zip
+*.zip
+
