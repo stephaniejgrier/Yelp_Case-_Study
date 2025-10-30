@@ -1,71 +1,71 @@
-city_name,metro_area,food_type,residents_by_qsr,avg_satisfaction,qsr_count
-Boise,ID,Burger,37065.820512820515,7.884615384615385,39
-Boise,ID,Chicken,40778.3,45.45,10
-Boise,ID,Global,36701.04347826087,7.717391304347826,23
-Boise,ID,Other,39056.13888888889,16.243055555555557,72
-Boise,ID,Pizza,35589.458333333336,5.541666666666667,24
-Boise,ID,Sandwich,34887,12.181818181818182,22
-Boise,ID,Snacks,35849.583333333336,19.354166666666668,24
-Indianapolis,IN,Burger,33514.55828220859,2.0337423312883436,163
-Indianapolis,IN,Chicken,31851.174603174604,19.396825396825395,63
-Indianapolis,IN,Global,32193.926829268294,10.21951219512195,82
-Indianapolis,IN,Other,31697.545454545456,23.645833333333332,264
-Indianapolis,IN,Pizza,32459.272727272728,1.3333333333333333,99
-Indianapolis,IN,Sandwich,30613.136842105265,9.205263157894738,95
-Indianapolis,IN,Snacks,30186.536082474227,32.855670103092784,97
-Nashville,TN,Burger,41288.17829457364,-0.9186046511627907,129
-Nashville,TN,Chicken,42536.482142857145,18.035714285714285,56
-Nashville,TN,Global,40833.25,7.198529411764706,68
-Nashville,TN,Other,40872.398230088496,17.634955752212388,226
-Nashville,TN,Pizza,41509.29213483146,-2.0842696629213484,89
-Nashville,TN,Sandwich,37582.78461538462,8.3,65
-Nashville,TN,Snacks,37818.04761904762,19.24404761904762,84
-New Orleans,LA,Burger,29745.071428571428,-5.137755102040816,98
-New Orleans,LA,Chicken,28887.196078431374,11.77450980392157,51
-New Orleans,LA,Global,30615.46153846154,7.538461538461538,26
-New Orleans,LA,Other,32393.028169014084,31.140845070422536,71
-New Orleans,LA,Pizza,31460.466666666667,-2.375,60
-New Orleans,LA,Sandwich,23760.591836734693,6.183673469387755,49
-New Orleans,LA,Snacks,26919,25.708333333333332,48
-Philadelphia,PA,Burger,29342.742021276597,2.1648936170212765,376
-Philadelphia,PA,Chicken,32782.77205882353,24.915441176470587,136
-Philadelphia,PA,Global,30284.71875,13.0625,128
-Philadelphia,PA,Other,30167.691983122364,22.957805907172997,237
-Philadelphia,PA,Pizza,31513.391534391536,-1.0634920634920635,189
-Philadelphia,PA,Sandwich,29382.944444444445,15.354166666666666,72
-Philadelphia,PA,Snacks,28345.09465020576,12.497942386831276,486
-Reno,NV,Burger,35164.688888888886,24.58888888888889,45
-Reno,NV,Chicken,33788.25,66.70833333333333,12
-Reno,NV,Global,34131.692307692305,17.096153846153847,26
-Reno,NV,Other,34028.311475409835,56.17213114754098,61
-Reno,NV,Pizza,34480.13636363636,8.25,22
-Reno,NV,Sandwich,31619.20588235294,19.794117647058822,34
-Reno,NV,Snacks,28894.369565217392,39.141304347826086,46
-Santa Barbara,CA,Burger,33316.666666666664,62.611111111111114,9
-Santa Barbara,CA,Chicken,34929.333333333336,165.33333333333334,3
-Santa Barbara,CA,Global,35817.333333333336,28.041666666666668,12
-Santa Barbara,CA,Other,33468.333333333336,22.75,18
-Santa Barbara,CA,Pizza,33008.63636363636,12.5,11
-Santa Barbara,CA,Sandwich,35442.181818181816,8.136363636363637,11
-Santa Barbara,CA,Snacks,30495.375,58.53125,16
-St Louis,MO,Burger,28852.946308724833,0.22818791946308725,149
-St Louis,MO,Chicken,28682.5,14.07258064516129,62
-St Louis,MO,Global,27351.845238095237,4.7976190476190474,84
-St Louis,MO,Other,29392.28327645051,14.10580204778157,293
-St Louis,MO,Pizza,29870.340909090908,0.8674242424242424,132
-St Louis,MO,Sandwich,26160.553571428572,6.325892857142857,112
-St Louis,MO,Snacks,25182.986486486487,29.93918918918919,74
-Tampa,FL,Burger,30026.563380281692,3,284
-Tampa,FL,Chicken,31424.51,18.52,100
-Tampa,FL,Global,31120.877358490565,10.39622641509434,106
-Tampa,FL,Other,30418.319727891158,30.108843537414966,294
-Tampa,FL,Pizza,29895.98675496689,7.708609271523179,151
-Tampa,FL,Sandwich,28738.327433628318,8.132743362831858,113
-Tampa,FL,Snacks,28907.367424242424,17.34280303030303,264
-Tucson,AZ,Burger,37694.53846153846,22.714285714285715,91
-Tucson,AZ,Chicken,38835.9,12.366666666666667,30
-Tucson,AZ,Global,36902.9649122807,17.93859649122807,57
-Tucson,AZ,Other,38420.11678832117,33.503649635036496,137
-Tucson,AZ,Pizza,34614.35,8.775,60
-Tucson,AZ,Sandwich,33314.645161290326,16.29032258064516,62
-Tucson,AZ,Snacks,34403.833333333336,29.307692307692307,78
+"city_name","metro_area","food_type","residents_by_qsr","avg_satisfaction","qsr_count","qsr_density_level","satisfaction_level","opportunity_type"
+"Boise","ID","Burger",37065.8205128205,7.88461538461539,39,"Low Density","Low Satisfaction","Blue Ocean"
+"Boise","ID","Chicken",40778.3,45.45,10,"Low Density","High Satisfaction","Mixed"
+"Boise","ID","Global",36701.0434782609,7.71739130434783,23,"Low Density","Low Satisfaction","Blue Ocean"
+"Boise","ID","Other",39056.1388888889,16.2430555555556,72,"Low Density","High Satisfaction","Mixed"
+"Boise","ID","Pizza",35589.4583333333,5.54166666666667,24,"Low Density","Low Satisfaction","Blue Ocean"
+"Boise","ID","Sandwich",34887,12.1818181818182,22,"Low Density","Low Satisfaction","Blue Ocean"
+"Boise","ID","Snacks",35849.5833333333,19.3541666666667,24,"Low Density","High Satisfaction","Mixed"
+"Indianapolis","IN","Burger",33514.5582822086,2.03374233128834,163,"Low Density","Low Satisfaction","Blue Ocean"
+"Indianapolis","IN","Chicken",31851.1746031746,19.3968253968254,63,"High Density","High Satisfaction","Ideal Conditions"
+"Indianapolis","IN","Global",32193.9268292683,10.219512195122,82,"High Density","Low Satisfaction","Mixed"
+"Indianapolis","IN","Other",31697.5454545455,23.6458333333333,264,"High Density","High Satisfaction","Ideal Conditions"
+"Indianapolis","IN","Pizza",32459.2727272727,1.33333333333333,99,"Low Density","Low Satisfaction","Blue Ocean"
+"Indianapolis","IN","Sandwich",30613.1368421053,9.20526315789474,95,"High Density","Low Satisfaction","Mixed"
+"Indianapolis","IN","Snacks",30186.5360824742,32.8556701030928,97,"High Density","High Satisfaction","Ideal Conditions"
+"Nashville","TN","Burger",41288.1782945736,-0.918604651162791,129,"Low Density","Low Satisfaction","Blue Ocean"
+"Nashville","TN","Chicken",42536.4821428571,18.0357142857143,56,"Low Density","High Satisfaction","Mixed"
+"Nashville","TN","Global",40833.25,7.19852941176471,68,"Low Density","Low Satisfaction","Blue Ocean"
+"Nashville","TN","Other",40872.3982300885,17.6349557522124,226,"Low Density","High Satisfaction","Mixed"
+"Nashville","TN","Pizza",41509.2921348315,-2.08426966292135,89,"Low Density","Low Satisfaction","Blue Ocean"
+"Nashville","TN","Sandwich",37582.7846153846,8.3,65,"Low Density","Low Satisfaction","Blue Ocean"
+"Nashville","TN","Snacks",37818.0476190476,19.2440476190476,84,"Low Density","High Satisfaction","Mixed"
+"New Orleans","LA","Burger",29745.0714285714,-5.13775510204082,98,"High Density","Low Satisfaction","Mixed"
+"New Orleans","LA","Chicken",28887.1960784314,11.7745098039216,51,"High Density","Low Satisfaction","Mixed"
+"New Orleans","LA","Global",30615.4615384615,7.53846153846154,26,"High Density","Low Satisfaction","Mixed"
+"New Orleans","LA","Other",32393.0281690141,31.1408450704225,71,"High Density","High Satisfaction","Ideal Conditions"
+"New Orleans","LA","Pizza",31460.4666666667,-2.375,60,"High Density","Low Satisfaction","Mixed"
+"New Orleans","LA","Sandwich",23760.5918367347,6.18367346938776,49,"High Density","Low Satisfaction","Mixed"
+"New Orleans","LA","Snacks",26919,25.7083333333333,48,"High Density","High Satisfaction","Ideal Conditions"
+"Philadelphia","PA","Burger",29342.7420212766,2.16489361702128,376,"High Density","Low Satisfaction","Mixed"
+"Philadelphia","PA","Chicken",32782.7720588235,24.9154411764706,136,"Low Density","High Satisfaction","Mixed"
+"Philadelphia","PA","Global",30284.71875,13.0625,128,"High Density","Low Satisfaction","Mixed"
+"Philadelphia","PA","Other",30167.6919831224,22.957805907173,237,"High Density","High Satisfaction","Ideal Conditions"
+"Philadelphia","PA","Pizza",31513.3915343915,-1.06349206349206,189,"High Density","Low Satisfaction","Mixed"
+"Philadelphia","PA","Sandwich",29382.9444444444,15.3541666666667,72,"High Density","High Satisfaction","Ideal Conditions"
+"Philadelphia","PA","Snacks",28345.0946502058,12.4979423868313,486,"High Density","Low Satisfaction","Mixed"
+"Reno","NV","Burger",35164.6888888889,24.5888888888889,45,"Low Density","High Satisfaction","Mixed"
+"Reno","NV","Chicken",33788.25,66.7083333333333,12,"Low Density","High Satisfaction","Mixed"
+"Reno","NV","Global",34131.6923076923,17.0961538461538,26,"Low Density","High Satisfaction","Mixed"
+"Reno","NV","Other",34028.3114754098,56.172131147541,61,"Low Density","High Satisfaction","Mixed"
+"Reno","NV","Pizza",34480.1363636364,8.25,22,"Low Density","Low Satisfaction","Blue Ocean"
+"Reno","NV","Sandwich",31619.2058823529,19.7941176470588,34,"High Density","High Satisfaction","Ideal Conditions"
+"Reno","NV","Snacks",28894.3695652174,39.1413043478261,46,"High Density","High Satisfaction","Ideal Conditions"
+"Santa Barbara","CA","Burger",33316.6666666667,62.6111111111111,9,"Low Density","High Satisfaction","Mixed"
+"Santa Barbara","CA","Chicken",34929.3333333333,165.333333333333,3,"Low Density","High Satisfaction","Mixed"
+"Santa Barbara","CA","Global",35817.3333333333,28.0416666666667,12,"Low Density","High Satisfaction","Mixed"
+"Santa Barbara","CA","Other",33468.3333333333,22.75,18,"Low Density","High Satisfaction","Mixed"
+"Santa Barbara","CA","Pizza",33008.6363636364,12.5,11,"Low Density","Low Satisfaction","Blue Ocean"
+"Santa Barbara","CA","Sandwich",35442.1818181818,8.13636363636364,11,"Low Density","Low Satisfaction","Blue Ocean"
+"Santa Barbara","CA","Snacks",30495.375,58.53125,16,"High Density","High Satisfaction","Ideal Conditions"
+"St Louis","MO","Burger",28852.9463087248,0.228187919463087,149,"High Density","Low Satisfaction","Mixed"
+"St Louis","MO","Chicken",28682.5,14.0725806451613,62,"High Density","Low Satisfaction","Mixed"
+"St Louis","MO","Global",27351.8452380952,4.79761904761905,84,"High Density","Low Satisfaction","Mixed"
+"St Louis","MO","Other",29392.2832764505,14.1058020477816,293,"High Density","High Satisfaction","Ideal Conditions"
+"St Louis","MO","Pizza",29870.3409090909,0.867424242424242,132,"High Density","Low Satisfaction","Mixed"
+"St Louis","MO","Sandwich",26160.5535714286,6.32589285714286,112,"High Density","Low Satisfaction","Mixed"
+"St Louis","MO","Snacks",25182.9864864865,29.9391891891892,74,"High Density","High Satisfaction","Ideal Conditions"
+"Tampa","FL","Burger",30026.5633802817,3,284,"High Density","Low Satisfaction","Mixed"
+"Tampa","FL","Chicken",31424.51,18.52,100,"High Density","High Satisfaction","Ideal Conditions"
+"Tampa","FL","Global",31120.8773584906,10.3962264150943,106,"High Density","Low Satisfaction","Mixed"
+"Tampa","FL","Other",30418.3197278912,30.108843537415,294,"High Density","High Satisfaction","Ideal Conditions"
+"Tampa","FL","Pizza",29895.9867549669,7.70860927152318,151,"High Density","Low Satisfaction","Mixed"
+"Tampa","FL","Sandwich",28738.3274336283,8.13274336283186,113,"High Density","Low Satisfaction","Mixed"
+"Tampa","FL","Snacks",28907.3674242424,17.342803030303,264,"High Density","High Satisfaction","Ideal Conditions"
+"Tucson","AZ","Burger",37694.5384615385,22.7142857142857,91,"Low Density","High Satisfaction","Mixed"
+"Tucson","AZ","Chicken",38835.9,12.3666666666667,30,"Low Density","Low Satisfaction","Blue Ocean"
+"Tucson","AZ","Global",36902.9649122807,17.9385964912281,57,"Low Density","High Satisfaction","Mixed"
+"Tucson","AZ","Other",38420.1167883212,33.5036496350365,137,"Low Density","High Satisfaction","Mixed"
+"Tucson","AZ","Pizza",34614.35,8.775,60,"Low Density","Low Satisfaction","Blue Ocean"
+"Tucson","AZ","Sandwich",33314.6451612903,16.2903225806452,62,"Low Density","High Satisfaction","Mixed"
+"Tucson","AZ","Snacks",34403.8333333333,29.3076923076923,78,"Low Density","High Satisfaction","Mixed"
