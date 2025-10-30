@@ -387,9 +387,12 @@ See the live interactive maps here:
 
 ```{r demo-maps, echo=FALSE, fig.align='center', out.width='49%', fig.show='hold'}
 knitr::include_graphics(c(
-  "docs/images/Example_map_QSRs_per_10k_residents.png",
-  "docs/images/Example_map_Customer_satisfaction.png"  
+  "../images/Example_map_QSRs_per_10k_residents.png",
+  "../images/Example_map_Customer_satisfaction.png"
 ))
+```
+
+
 ```
 
 **Geographic Insight:** Opportunity zones cluster in suburban areas with growing populations but limited QSR infrastructure, suggesting expansion opportunities in emerging neighborhoods.
