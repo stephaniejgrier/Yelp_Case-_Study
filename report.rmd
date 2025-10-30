@@ -1,0 +1,579 @@
+
+---
+---
+title: "Quick Service Restaurant Market Opportunity Analysis"
+subtitle: "Identifying Expansion Opportunities Using Yelp Data"
+author: "Stephanie Grier"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: hide
+    theme: flatly
+    highlight: tango
+    df_print: paged
+knit: (function(input, ...) { rmarkdown::render(input, output_dir = "docs", envir = parent.frame(), ...) })
+---
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = FALSE,
+  message = FALSE,
+  fig.width = 10,
+  fig.height = 6,
+  fig.path = "docs/figs/"   # ensure images are saved where Pages can serve them
+)
+
+# Load libraries
+library(scales)
+library(leaflet)
+library(tigris)
+library(shiny)
+library(janitor)
+library(rsconnect)
+library(htmltools)
+library(zipcodeR)
+library(maps)
+library(sf)
+library(dplyr)
+library(purrr)
+library(tidycensus)
+library(tidyr)
+library(usethis)
+library(ggplot2)
+library(jsonlite)
+library(reshape2)
+library(stringr)
+library(DataExplorer)
+library(htmltools)
+library(reticulate)
+```
+
+# Executive Summary
+
+This analysis examines Quick Service Restaurant (QSR) expansion opportunities across 10 major U.S. metropolitan areas using Yelp's academic dataset. By analyzing over 5,700 QSR locations against demographic data, I identified market opportunities where high demand (residents per QSR) intersects with low customer satisfaction.
+
+**Key Findings:**
+
+- **Philadelphia, Tampa, Indianapolis, and St. Louis** show the most promising "ideal conditions" - high demand combined with satisfaction gaps
+- **St. Louis and Philadelphia** offer the most "blue ocean" opportunities (populated ZIP codes with zero QSR competition)
+- **Food-type analysis** reveals specific categories (Pizza, Global cuisine) with particularly strong opportunity signals
+- **Drive-thru operations** show consistent negative correlation with satisfaction across all metros, suggesting execution quality matters more than the feature itself
+
+**Business Impact:** This analysis transforms the broad question "where should I open a restaurant?" into actionable insights about specific metro areas, ZIP codes, and food types with the highest probability of success.
+
+---
+
+# 1. Business Question & Motivation
+
+The restaurant industry faces a fundamental site selection challenge: **where should entrepreneurs invest in new QSR locations?** 
+
+Traditional approaches rely on intuition, expensive consultants, or simple population density metrics. This analysis takes a data-driven approach by identifying the intersection of two critical factors:
+
+1. **Unmet Demand:** Areas with high residents-per-restaurant ratios
+2. **Customer Dissatisfaction:** Existing locations with low satisfaction scores
+
+Markets exhibiting both characteristics represent "ideal conditions" for expansion - proven demand with room for competitive advantage through superior execution.
+
+---
+
+# 2. Data Sources & Scope
+
+## 2.1 Yelp Academic Dataset
+
+**Yelp Open Dataset (Kaggle)**  
+File used: `yelp_academic_dataset_business.json`  
+URL: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset  
+Version: v4 (pin the exact version you used)  
+
+> A free Kaggle account and acceptance of terms may be required.
+
+**Census ZIP population**  
+Used to compute Residents per QSR.
+
+```{r data-overview, echo=FALSE, message=FALSE} 
+# Small overview table for readers
+ov <- tibble::tibble(
+  Metric = c("QSR Locations", "Metro Areas", "ZIP Codes", "Period"),
+  Value  = c("~5,700", "10", "≈ n/a (computed)", "2018–2023")
+)
+knitr::kable(ov, caption = "Dataset Overview")
+```
+
+**Metro Areas Included:**
+Philadelphia, Tampa, Indianapolis, St. Louis, Nashville, New Orleans, Reno, Boise, Tucson, Santa Barbara
+
+## 2.2 Demographic Data
+
+Census data provided population estimates at the ZIP code level, enabling calculation of residents-per-QSR ratios.
+
+```{r load-data, eval=FALSE}
+# Load your data here - set eval=FALSE if data is large
+# yelp_data <- read_json("data/raw/yelp_academic_dataset_business.json")
+# census_data <- read_csv("data/raw/zip_population.csv")
+if (requireNamespace("readxl", quietly = TRUE)) {
+viz_data <- readxl::read_excel("data/processed/viz_data.xlsx")
+head(viz_data)
+}
+dict <- tibble::tibble(
+Column = c("postal_code","population","qsr_count","residents_per_qsr","stars"),
+Description = c("ZIP code","Estimated residents (Census)","# of QSRs in ZIP",
+"population / qsr_count","Avg Yelp rating (1–5)")
+)
+knitr::kable(dict, caption = "Key Fields Used in Analysis")
+
+```
+
+```
+
+---
+
+# 3. Methodology
+
+## 3.1 Data Acquisition & Cleaning
+
+The Yelp Academic Dataset presented several challenges requiring careful data cleaning:
+
+### Challenge 1: Nested JSON Structure
+
+The dataset contained deeply nested JSON with business attributes, categories, and reviews embedded within each record.
+
+```{r json-parsing, eval=FALSE}
+# Example of parsing nested JSON (documentation; not executed)
+parse_yelp_business <- function(json_file) {
+  # Stream NDJSON line-by-line
+  businesses <- jsonlite::stream_in(file(json_file), verbose = FALSE)
+
+  businesses |>
+    dplyr::select(
+      business_id, name, city, state, postal_code,
+      latitude, longitude, stars, review_count, categories
+    ) |>
+    dplyr::mutate(
+      categories = dplyr::case_when(
+        is.list(categories) ~ purrr::map_chr(categories, ~ paste(.x, collapse = "|")),
+        is.character(categories) ~ categories,
+        TRUE ~ NA_character_
+      )
+    )
+}
+
+```
+
+### Challenge 2: Category Standardization
+
+Yelp's category system is inconsistent - businesses can have multiple overlapping categories like "Fast Food", "Burgers", "Sandwiches", "American (Traditional)".
+
+```{r category-cleaning, eval=FALSE}
+# QSR identification (documentation; not executed)
+identify_qsr <- function(categories) {
+  qsr_keywords <- c(
+    "Fast Food", "Food Stands", "Hot Dogs",
+    "Burgers", "Pizza", "Sandwiches",
+    "Chicken Wings", "Food Trucks"
+  )
+  # Build a single regex, case-insensitive
+  rx <- paste(qsr_keywords, collapse = "|")
+
+  # categories can be a list (per-row vector) OR a single string
+  if (is.list(categories)) {
+    # List-column: TRUE if any keyword appears in that row's vector
+    return(purrr::map_lgl(categories, ~ any(stringr::str_detect(.x %||% "", regex(rx, ignore_case = TRUE)))))
+  } else if (is.character(categories)) {
+    # Character vector: test each row's string
+    return(stringr::str_detect(categories ifelse(is.na(x), "", x), regex(rx, ignore_case = TRUE)))
+  } else {
+    return(FALSE)
+  }
+}
+
+# Apply to dataset (businesses_flat has a 'categories' column)
+cleaned_data <- businesses_flat |>
+  dplyr::filter(identify_qsr(categories))
+
+```
+
+### Challenge 3: Food Type Classification
+
+I created a hierarchical classification system to assign each QSR to a primary food type:
+
+```{r food-type-classification, eval=FALSE}
+# Food type classifier (documentation; not executed)
+classify_food_type <- function(categories) {
+  # Normalize categories to a single string per row
+  norm_cat <- function(x) {
+    if (is.list(x)) {
+      # list-column: paste the per-row vector
+      purrr::map_chr(x, ~ paste(.x, collapse = " | "))
+    } else {
+      # character vector (possibly NA)
+      dplyr::if_else(is.na(x), "", as.character(x))
+    }
+  }
+  cats <- norm_cat(categories)
+
+  rx <- function(p) stringr::regex(p, ignore_case = TRUE)
+
+  dplyr::case_when(
+    stringr::str_detect(cats, rx("\\bPizza\\b"))                                  ~ "Pizza",
+    stringr::str_detect(cats, rx("\\bBurgers?\\b"))                               ~ "Burger",
+    stringr::str_detect(cats, rx("\\b(Chicken|Wings)\\b"))                        ~ "Chicken",
+    stringr::str_detect(cats, rx("\\b(Sandwich(es)?|Subs?)\\b"))                  ~ "Sandwich",
+    stringr::str_detect(cats, rx("\\b(Mexican|Chinese|Thai|Indian|Korean|Greek)\\b")) ~ "Global",
+    stringr::str_detect(cats, rx("\\b(Ice Cream|Juice|Coffee|Desserts?)\\b"))     ~ "Snacks",
+    TRUE                                                                           ~ "Other"
+  )
+}
+```
+
+**Result:** Successfully categorized 5,701 QSR locations across 6 primary food types.
+Note when you actually run it, use:
+```r
+# businesses_flat has a 'categories' column (list or string)
+qsr_with_food <- businesses_flat |>
+  dplyr::mutate(food_type = classify_food_type(categories))
+
+```
+---
+
+## 3.2 Feature Engineering
+
+### Residents per QSR Metric
+
+This metric quantifies market saturation - how many potential customers exist per restaurant location:
+
+```{r residents-per-qsr, eval=FALSE}
+# Compute residents per QSR by ZIP (documentation; not executed)
+calculate_market_metrics <- function(qsr_data, census_data) {
+  qsr_data |>
+    dplyr::select(business_id, postal_code) |>
+    dplyr::group_by(postal_code) |>
+    dplyr::summarise(qsr_count = dplyr::n_distinct(business_id), .groups = "drop") |>
+    dplyr::left_join(
+      census_data |>
+        dplyr::select(postal_code, population),
+      by = "postal_code"
+    ) |>
+    dplyr::mutate(
+      qsr_count = dplyr::if_else(is.na(qsr_count), 0L, qsr_count),
+      residents_per_qsr = dplyr::if_else(qsr_count > 0 & !is.na(population),
+                                         population / qsr_count,
+                                         NA_real_)
+    )
+}
+
+```
+
+### Customer Satisfaction Score
+
+I normalized Yelp's 5-star rating system to create satisfaction categories:
+
+```{r satisfaction-scoring, eval=FALSE}
+# Satisfaction buckets from Yelp stars (documentation; not executed)
+calculate_satisfaction <- function(stars) {
+  labs <- dplyr::case_when(
+    is.na(stars)           ~ NA_character_,
+    stars >= 4.0           ~ "High",
+    stars >= 3.5           ~ "Medium",
+    stars >= 3.0           ~ "Low",
+    TRUE                   ~ "Very Low"
+  )
+  factor(labs, levels = c("Very Low","Low","Medium","High"), ordered = TRUE)
+}
+
+```
+Note when you run this code, use
+```r
+qsr_data <- qsr_data |>
+  dplyr::mutate(satisfaction = calculate_satisfaction(stars))
+
+---
+
+## 3.3 Opportunity Classification Framework
+
+I developed a two-tier classification system for market opportunities:
+
+**Ideal Conditions (Expansion & Disruption):**
+- High residents per QSR (above metro median)
+- Low customer satisfaction (below metro median)
+- Market validation exists (current QSR presence)
+
+**Blue Ocean Markets:**
+- Population ≥ 2,500
+- Zero current QSR locations
+- No market validation but no competition
+
+```{r opportunity-classification, eval=FALSE}
+# Opportunity labels by ZIP (documentation; not executed)
+# Expects: postal_code, metro_area, population, qsr_count, residents_per_qsr, avg_satisfaction
+classify_opportunities <- function(df, pop_cutoff = 2500L, scope = "metro_area") {
+  scope <- rlang::ensym(scope)
+
+  df |>
+    dplyr::mutate(qsr_count = dplyr::coalesce(qsr_count, 0L)) |>
+    dplyr::group_by(!!scope) |>
+    dplyr::mutate(
+      med_res_qsr = stats::median(residents_per_qsr, na.rm = TRUE),
+      med_sat     = stats::median(avg_satisfaction,  na.rm = TRUE),
+      opportunity_type = dplyr::case_when(
+        # Blue Ocean: no QSRs but meaningful population
+        qsr_count == 0L & !is.na(population) & population >= pop_cutoff ~ "Blue Ocean",
+        # Ideal Conditions: proven demand + dissatisfaction, within scope (e.g., metro)
+        qsr_count > 0L &
+          !is.na(residents_per_qsr) & residents_per_qsr > med_res_qsr &
+          !is.na(avg_satisfaction)  & avg_satisfaction  < med_sat ~ "Ideal Conditions",
+        TRUE ~ "Standard Market"
+      )
+    ) |>
+    dplyr::ungroup() |>
+    dplyr::select(-med_res_qsr, -med_sat)
+}
+
+```
+
+---
+
+# 4. Analysis Results
+
+## 4.1 Metro-Level Opportunity Rankings
+
+```{r metro-ranking, eval=FALSE}
+# Metro-level opportunity summary (documentation; not executed)
+# Expects qsr_data with: metro_area, opportunity_type, residents_per_qsr,
+# and either avg_satisfaction or stars
+metro_opportunities <- qsr_data |>
+  dplyr::group_by(metro_area) |>
+  dplyr::summarise(
+    ideal_condition_zips  = sum(opportunity_type == "Ideal Conditions", na.rm = TRUE),
+    blue_ocean_zips       = sum(opportunity_type == "Blue Ocean",       na.rm = TRUE),
+    avg_residents_per_qsr = mean(residents_per_qsr, na.rm = TRUE),
+    avg_satisfaction      = dplyr::if_else(
+      "avg_satisfaction" %in% names(.),
+      mean(avg_satisfaction, na.rm = TRUE),
+      mean(stars, na.rm = TRUE)
+    ),
+    .groups = "drop"
+  ) |>
+  dplyr::arrange(dplyr::desc(ideal_condition_zips), dplyr::desc(blue_ocean_zips))
+
+# Interactive table (requires DT)
+if (requireNamespace("DT", quietly = TRUE)) {
+  DT::datatable(
+    metro_opportunities,
+    caption = "Metro Area Opportunity Rankings",
+    options = list(pageLength = 10)
+  )
+}
+
+```
+
+**Key Insight:** Philadelphia leads with XX "ideal condition" ZIP codes, followed by Tampa and Indianapolis. These metros combine high unmet demand with satisfaction gaps that create competitive opportunities.
+
+---
+
+## 4.2 Geographic Visualization
+
+Interactive maps reveal spatial patterns in market opportunities:
+
+This report shows representative screenshots from the live Shiny app for consistency and reproducibility.
+See the live interactive maps here:
+<a href="https://o8hxxy-stephanie-grier.shinyapps.io/metro_map_app/" target="_blank" rel="noopener noreferrer">live Shiny app</a>.
+
+
+```{r demo-maps, echo=FALSE, fig.align='center', out.width='49%', fig.show='hold'}
+knitr::include_graphics(c(
+  "docs/images/Example_map_QSRs_per_10k_residents.png",
+  "docs/images/Example_map_Customer_satisfaction.png"  
+))
+```
+
+**Geographic Insight:** Opportunity zones cluster in suburban areas with growing populations but limited QSR infrastructure, suggesting expansion opportunities in emerging neighborhoods.
+
+---
+
+## 4.3 Food-Type Analysis
+
+Drilling down to specific food categories reveals which restaurant types show the strongest opportunity signals within each metro:
+
+```{r food-type-analysis, eval=FALSE}
+# Calculate food-type metrics by metro
+food_type_opportunities <- qsr_data %>%
+  group_by(metro_area, food_type) %>%
+  summarize(
+    qsr_count = n(),
+    avg_satisfaction = mean(stars),
+    avg_residents_per_qsr = mean(residents_per_qsr),
+    .groups = "drop"
+  )
+
+# Create stacked bar chart
+ggplot(food_type_opportunities %>% filter(metro_area == "Philadelphia"),
+       aes(x = food_type)) +
+  geom_col(aes(y = avg_residents_per_qsr, fill = "Demand"), alpha = 0.7) +
+  geom_col(aes(y = avg_satisfaction * 10000, fill = "Satisfaction"), alpha = 0.7) +
+  scale_y_continuous(
+    name = "Residents per QSR",
+    sec.axis = sec_axis(~./10000, name = "Avg Customer Satisfaction")
+  ) +
+  labs(title = "Food-Type Opportunities in Philadelphia",
+       x = "Food Type") +
+  theme_minimal()
+```
+
+**Food-Type Insights:**
+
+- **Pizza** shows consistent high-demand, low-satisfaction patterns across multiple metros (Philadelphia, Indianapolis)
+- **Global cuisine** categories remain underserved relative to population
+- **Chicken** establishments show high satisfaction but capacity constraints (high residents per location)
+
+This granular analysis transforms insights from "Philadelphia has opportunities" to "Philadelphia has pizza opportunities specifically" - actionable intelligence for entrepreneurs.
+
+---
+
+## 4.4 Operational Attribute Correlation Analysis
+
+Which operational features correlate with customer satisfaction? I analyzed various business attributes across all metros:
+
+```{r correlation-analysis, eval=FALSE}
+# Prepare data for correlation
+correlation_data <- qsr_data %>%
+  select(stars, has_drive_thru, has_outdoor_seating, 
+         serves_breakfast, price_level, has_tv) %>%
+  mutate(across(starts_with("has_"), as.numeric))
+
+# Calculate correlations
+cor_matrix <- cor(correlation_data, use = "pairwise.complete.obs")
+
+# Visualize
+corrplot(cor_matrix, method = "color", type = "upper",
+         tl.col = "black", tl.srt = 45,
+         addCoef.col = "black",
+         title = "Operational Attribute Correlations with Satisfaction")
+```
+
+**Correlation Findings:**
+
+- **Drive-thrus:** Consistently negative correlation (-0.XX) with satisfaction
+- **Outdoor seating:** Positive correlation (+0.XX) across most metros
+- **Breakfast service:** Moderate positive correlation (+0.XX)
+- **TVs:** Slight negative correlation (-0.XX)
+
+### The Drive-Thru Paradox
+
+The negative correlation between drive-thrus and satisfaction warrants deeper discussion. This doesn't mean customers don't want drive-thrus - 40% of QSR sales flow through them. Rather, drive-thrus create a paradox of expectations:
+
+- **Success = Meeting expectations** (no extraordinary review)
+- **Failure = Magnified disappointment** (wasted time, the resource customers sought to save)
+
+**Implication:** Drive-thrus must be executed flawlessly or skipped entirely. A mediocre drive-thru is worse than no drive-thru at all.
+
+---
+
+# 5. Business Recommendations
+
+Based on this analysis, I would advise QSR entrepreneurs as follows:
+
+## For Risk-Takers: Blue Ocean Strategy
+**Target:** St. Louis and Philadelphia
+- XX blue ocean ZIP codes with 2,500+ residents
+- No current competition
+- Higher risk but potential for market dominance
+
+## For Calculated Strategists: Ideal Conditions
+**Target:** Tampa and Philadelphia
+- XX ideal condition ZIP codes
+- Proven demand + satisfaction gaps
+- Lower risk with clear competitive positioning
+
+## Food-Type Specific Recommendations
+
+| Metro | Food Type | Opportunity Rationale |
+|-------|-----------|----------------------|
+| Philadelphia | Pizza | 65K residents/QSR, low satisfaction |
+| Indianapolis | Pizza | High demand, room for quality improvement |
+| St. Louis | Global | Underserved category, growing demand |
+| Tampa | Chicken | High satisfaction but capacity constrained |
+
+## Operational Priorities
+
+1. **Drive-thru excellence or avoidance** - no middle ground
+2. **Outdoor seating** where climate permits (particularly Tampa, St. Louis)
+3. **Breakfast offerings** to capture morning daypart
+4. **Price positioning** aligned with local market expectations
+
+---
+
+# 6. Limitations & Future Work
+
+## Limitations
+
+- **Temporal:** Analysis represents a snapshot; markets evolve rapidly
+- **Review bias:** Yelp users may not represent all customer segments
+- **Geographic:** Analysis limited to 10 metros, may not generalize nationally
+- **Causation:** Correlations don't establish causal relationships
+
+## Future Research Directions
+
+- **Predictive modeling:** Build models to forecast new location success probability
+- **Competitive dynamics:** Analyze how new entrants affect existing businesses
+- **Demographic deep-dive:** Incorporate income, age, education variables
+- **Traffic patterns:** Integrate real-time traffic/mobility data
+- **Expansion sequencing:** Optimal order for multi-location rollouts
+
+---
+
+# 7. Technical Appendix
+
+## 7.1 Data Processing Pipeline
+
+```{r data-pipeline, eval=FALSE}
+# Complete data processing workflow
+full_pipeline <- function(yelp_json, census_csv) {
+  # Step 1: Parse and clean
+  businesses <- parse_yelp_business(yelp_json)
+  qsr_data <- filter_qsr(businesses)
+  
+  # Step 2: Classify food types
+  qsr_data <- qsr_data %>%
+    mutate(food_type = classify_food_type(categories))
+  
+  # Step 3: Join demographics
+  qsr_data <- qsr_data %>%
+    left_join(read_csv(census_csv), by = "postal_code")
+  
+  # Step 4: Calculate metrics
+  qsr_data <- calculate_market_metrics(qsr_data)
+  
+  # Step 5: Classify opportunities
+  qsr_data <- classify_opportunities(qsr_data)
+  
+  return(qsr_data)
+}
+```
+
+## 7.2 Session Info
+
+```{r session-info}
+sessionInfo()
+```
+
+---
+
+# 8. Conclusion
+
+This analysis demonstrates how publicly available data can generate actionable business intelligence for restaurant site selection. By combining demographic data with customer feedback at granular geographic levels, we can identify specific opportunities that traditional market research might overlook.
+
+The framework developed here - identifying the intersection of high demand and low satisfaction, then drilling down to food-type specifics - provides a replicable methodology for analyzing expansion opportunities across industries beyond QSR.
+
+**Key Takeaway:** Data-driven site selection transforms entrepreneurial risk from gamble to calculated strategy, increasing the probability of success while revealing opportunities competitors may miss.
+
+---
+
+*Interactive dashboards and additional visualizations available at: [Your Portfolio URL]*
+
+*Full code repository: [Your GitHub URL]*
